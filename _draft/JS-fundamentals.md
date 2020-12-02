@@ -54,7 +54,7 @@ referenceTypeTester();
 
 ## XXX. Homework
 
-**Submission: modify the HTML template below as instructed, rename the file to *Lastname-Firstname-js-fundamentals.html*, and then ZIP and POST it to the myCourses dropbox prior to the due date:***
+**Submission: modify the HTML template below as instructed, rename the file to *myLastname-myFirstname-js-fundamentals.html*, and then ZIP and POST it to the myCourses dropbox prior to the due date:***
 
 <hr>
 
@@ -64,7 +64,7 @@ referenceTypeTester();
 
 <hr>
 
-2) Read the article linked in part II. above and answer the following questions (by adding text to your *Lastname-Firstname-js-fundamentals.html* file):
+**Read the article linked in part II. above and answer the following questions (by adding text to your *myLastname-myFirstname-js-fundamentals.html* file):**
 
 2A) What advice does the author provide for "... the best thing to do is ..." ?
 
