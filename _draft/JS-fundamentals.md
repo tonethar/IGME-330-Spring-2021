@@ -2,14 +2,14 @@
 
 - *all of the code below is running in either [strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode), or in an ES6 module*
 
-## I. Primitive types (aka value) v. Reference Types
+## I. Javascript primitive types (aka value) v. Reference Types
 
-- A primitive type (e.g. `Number`, `Boolean`, `null`, `undefined`) has a fixed size in memory. For example, `Number` occupies eight bytes of memory (32 bits), and a `Boolean` value can be represented with only one bit. We say that these types are stored *by value*.
+- A JavaScript *primitive type* (e.g. `Number`, `Boolean`, `null`, `undefined`) has a fixed size in memory. For example, `Number` occupies eight bytes of memory (32 bits), and a `Boolean` value can be represented with only one bit. We say that these types are stored *by value*.
 - `Object` and `Array` types do not have a fixed size. Instead, the variable stores a *reference* (e.g. pointer or memory address) to the value. This reference is not the data value itself, but it tells the variable where to look to find the value.
 - Strings ARE variable size (like reference types), but because in JavaScript they are *immutable*, they behave like value types (see the HW below)
 - Handy resources:
   - https://www.educative.io/courses/step-up-your-js-a-comprehensive-guide-to-intermediate-javascript/7nAZrnYW9rG
-- Here is a great example from a [Stack Overflow Post]. The language used is Java, but it nicely illustrates how "primitive variables store the actual values, whereas reference variables store the addresses of the objects (located on the system *heap*) that they refer to"
+- Here is a great visual example from a [Stack Overflow Post](https://stackoverflow.com/questions/8790809/whats-the-difference-between-primitive-and-reference-types). The language used is Java, but it nicely illustrates how "primitive variables store the actual values, whereas reference variables store the addresses of the objects (located on the system *heap*) that they refer to"
 
 ![Screenshot](./_images/js-fundamentals-1.jpg)
 
