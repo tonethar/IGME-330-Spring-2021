@@ -20,6 +20,14 @@
 
 <hr>
 
+## II. Other tools and techniques
+
+- `"use strict"`
+- Linters
+- Add strong typing to your JavaScript
+
+<hr>
+
 ## XXX. Homework
 
 **Submission: copy the text below and paste it into a text editor, answer the questions, and then export the file in PDF format (only) with a file name of *myLastname-myFirstname-debugging.pdf*, and then POST it to the myCourses dropbox prior to the due date:***
