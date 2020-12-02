@@ -2,7 +2,7 @@
 
 - *all of the code below is running in either [strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode), or in an ES6 module*
 
-## I. Javascript primitive types (aka value) v. Reference Types
+## I. Javascript "primitive" types (aka value) v. "reference" types
 
 - A JavaScript *primitive type* (e.g. `Number`, `Boolean`, `null`, `undefined`) has a fixed size in memory. For example, `Number` occupies eight bytes of memory (32 bits), and a `Boolean` value can be represented with only one bit. We say that these types are stored *by value*.
 - `Object` and `Array` types do not have a fixed size. Instead, the variable stores a *reference* (e.g. pointer or memory address) to the value. This reference is not the data value itself, but it tells the variable where to look to find the value.
