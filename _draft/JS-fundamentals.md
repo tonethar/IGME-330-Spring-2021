@@ -13,6 +13,7 @@
 
 ![Screenshot](./_images/js-fundamentals-1.jpg)
 
+<hr>
 
 ### I-A. *Value* type example
 
@@ -42,6 +43,7 @@ function referenceTypeTester(){
 referenceTypeTester();
 ```
 
+<hr>
 
 ## XXX. Homework
 
