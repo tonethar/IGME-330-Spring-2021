@@ -45,6 +45,11 @@ referenceTypeTester();
 
 <hr>
 
+## II. Debugging
+
+
+- https://www.cs.cornell.edu/courses/cs312/2006fa/lectures/lec26.html
+
 ## XXX. Homework
 
 **Submission: modify the HTML template below as instructed, rename the file to *Lastname-Firstname-js-fundamentals.html*, and then ZIP and POST it to the myCourses dropbox prior to the due date:***
@@ -52,6 +57,8 @@ referenceTypeTester();
 1A) Prove that the JavaScript `String` type is a *value type* by re-writing the `valueTypeTester()` function in the I-A. example above so that it utilizes this string - `"Joe"` - instead of a number 
 
 1B) Prove that the JavaScript `Object` type is a *reference type* by re-writing the `referenceTypeTester()` function in the I-B. example above so that it utilizes an object instead of an array. Do so with this [Object literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) - `let a = {name: "Joe", age: 78 };` 
+
+2A) Read the article linked in 
 
 
 
