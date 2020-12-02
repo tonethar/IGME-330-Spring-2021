@@ -20,7 +20,7 @@
 
 <hr>
 
-## II. Other tools and techniques
+## III. Other tools and techniques
 
 - `"use strict"`
 - Linters
