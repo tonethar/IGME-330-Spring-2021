@@ -19,12 +19,12 @@
 
 ```js
 function valueTypeTester(){
-  let a = 3.14;    // Declare and initialize a variable
-  let b = a;       // Copy the variable's value to a new variable
-  a = 3;           // Modify the value of the original variable
-  console.log(a);  // Displays 3 as expected
-  console.log(b);  // Displays 3.14; the copy has not changed
-  /* Thus `a` and `b` "contain" different values! */
+	let a = 3.14;            // Declare and initialize a variable
+	let b = a;               // Copy the variable's value to a new variable
+	a = 3;                   // Modify the value of the original variable
+	console.log(`a = ${a}`); // Displays 3 as expected
+	console.log(`b = ${b}`); // Displays 3.14; the copy has not changed
+	/* Thus `a` and `b` "contain" different values! */
 }
 valueTypeTester();
 ```
@@ -33,12 +33,12 @@ valueTypeTester();
 
 ```js
 function referenceTypeTester(){
-  let a = [1,2,3];    // Initialize a variable to refer to an array
-  let b = a;          // Copy that reference into a new variable
-  a[0] = 100;          // Modify the array using the original variable's reference
-  console.log(a);     // Display the changed array [100,2,3] via the original variable
-  console.log(b);     // Display the changed array [100,2,3] via the new variable
-  /* Thus `a` and `b` are pointing at the same array! */
+	let a = [1,2,3];         // Initialize a variable to refer to an array
+	let b = a;               // Copy that reference into a new variable
+	a[0] = 100;              // Modify the array using the original variable's reference
+	console.log(`a = ${a}`); // Display the changed array [100,2,3] via the original variable
+	console.log(`b = ${b}`); // Display the changed array [100,2,3] via the new variable
+	/* Thus `a` and `b` are pointing at the same array! */
 }
 referenceTypeTester();
 ```
