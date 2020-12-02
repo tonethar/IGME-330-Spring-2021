@@ -12,23 +12,45 @@
 ### I-A. *Value* type example
 
 ```js
-let a = 3.14;    // Declare and initialize a variable
-let b = a;       // Copy the variable's value to a new variable
-a = 3;           // Modify the value of the original variable
-console.log(a);  // Displays 3 as expected
-console.log(b);  // Displays 3.14; the copy has not changed
+function valueTypeTester(){
+  let a = 3.14;    // Declare and initialize a variable
+  let b = a;       // Copy the variable's value to a new variable
+  a = 3;           // Modify the value of the original variable
+  console.log(a);  // Displays 3 as expected
+  console.log(b);  // Displays 3.14; the copy has not changed
+  /* Thus `a` and `b` "contain" different values! */
+}
+valueTypeTester();
 ```
 
 ### I-B. *Reference* type example
 
 ```js
-let a = [1,2,3];    // Initialize a variable to refer to an array
-let b = a;          // Copy that reference into a new variable
-a[0] = 100;          // Modify the array using the original variable's reference
-console.log(a);     // Display the changed array [100,2,3] via the original variable
-console.log(b);     // Display the changed array [100,2,3] via the new variable
-/* Thus `a` and `b` are pointing at the same array! */
+function referenceTypeTester(){
+  let a = [1,2,3];    // Initialize a variable to refer to an array
+  let b = a;          // Copy that reference into a new variable
+  a[0] = 100;          // Modify the array using the original variable's reference
+  console.log(a);     // Display the changed array [100,2,3] via the original variable
+  console.log(b);     // Display the changed array [100,2,3] via the new variable
+  /* Thus `a` and `b` are pointing at the same array! */
+}
+referenceTypeTester();
 ```
 
 
-## XXX. 
+## XXX. Homework
+
+**Submission: modify the HTML template below as instructed, rename the file to *Lastname-Firstname-js-fundamentals.html*, and then ZIP and POST it to the myCourses dropbox prior to the due date:***
+
+1A) Prove that the JavaScript `String` type is a *value type* by re-writing the `valueTypeTester()` function in the I-A. example above so that it utilizes a string instead of a number 
+
+
+
+**Coder-Ace-js-fundamentals.html**
+
+```html
+
+```
+
+
+
