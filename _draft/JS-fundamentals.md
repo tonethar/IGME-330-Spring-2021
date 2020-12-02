@@ -56,9 +56,13 @@ referenceTypeTester();
 
 **Submission: modify the HTML template below as instructed, rename the file to *Lastname-Firstname-js-fundamentals.html*, and then ZIP and POST it to the myCourses dropbox prior to the due date:***
 
+<hr>
+
 1A) Prove that the JavaScript `String` type is a *value type* by re-writing the `valueTypeTester()` function in the part I-A. example above so that it utilizes this string - `"Joe"` - instead of a number 
 
 1B) Prove that the JavaScript `Object` type is a *reference type* by re-writing the `referenceTypeTester()` function in the part I-B. example above so that it utilizes an object instead of an array. Do so with this [Object literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) - `let a = {name: "Joe", age: 78 };` 
+
+<hr>
 
 2) Read the article linked in part II. above and answer the following questions (by adding text to your *Lastname-Firstname-js-fundamentals.html* file):
 
@@ -92,10 +96,14 @@ a.innerHTML = "Welcome";
 
 2J) 
 
+<hr>
+
 3) See the top of this page - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
 
 - What do we mean when we say that JavaScript is a "loosely typed and dynamic language"?
 - Give an example
+
+<hr>
 
 **Coder-Ace-js-fundamentals.html**
 
