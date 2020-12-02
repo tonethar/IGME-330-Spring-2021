@@ -3,11 +3,16 @@
 
 ## I. Debugging Concepts
 
+- If the output or behavior of a program is not what the developer expected, then the program is incorrect -- it contains ***errors*** (aka ***bugs***)
+- This testing reveals the existence of programming errors, but not the cause of errors. The programmer must then go through a *debugging process* in order to be able to identify the causes and then fix the errors:
+
 - https://www.cs.cornell.edu/courses/cs312/2006fa/lectures/lec26.html
 
 <hr>
 
 ## II. Debugging JavaScript
+
+
 
 <hr>
 
@@ -52,6 +57,17 @@ a.innerHTML = "Welcome";
 1K) Explain ***Binary search***
 
 1L) Give an example of ***Problem simplification***
+
+1M) Give an example of ***A scientific method: form hypotheses***
+
+1N) What is ***Bug clustering***?
+
+1O) We will talk about ***Error-detection tools*** in the next section (*no answer required*)
+
+1P) Note two of the additional strategies that were suggested (*no answer required*):
+
+- *The bug may not be where you expect it.* It a large amount of time has unsuccessfully been spent inspecting a particular piece of code, the error may not be there. Keep an open mind and start questioning the other parts of the program.
+- *Make sure you have the right source code.* One must ensure that the source code being debugged corresponds to the actual program being run ... (WE SEE THIS ALL THE TIME)
 
 <hr>
 
