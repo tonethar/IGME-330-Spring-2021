@@ -20,7 +20,20 @@
 
 <hr>
 
-## III. Other tools and techniques
+## III. JavaScript specific debugging issues
+
+- In "legacy" JavaScript (without utilizing ES5's `"use strict"` or ES6 modules) you can declare a variable just by using it, without having to use `var` to declare it!
+- Try this in the Chrome console:
+
+```js
+name = "Joe";       // where's `var` or `let`?
+console.log(name);  // "Joe"
+console.log(window.name); // "Joe"
+```
+
+<hr>
+
+## IV. Other tools and techniques
 
 - `"use strict"`
 - Linters
