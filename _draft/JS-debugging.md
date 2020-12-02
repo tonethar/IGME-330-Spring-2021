@@ -23,8 +23,8 @@
 ## III. JavaScript specific debugging issues
 
 ### III-A. "Auto Globals"
-- In "legacy" JavaScript (without utilizing ES5's `"use strict"` or ES6 modules) you can declare a variable just by using it, without having to use `var` to declare it!
-- Try this in the Chrome console:
+- In "legacy" JavaScript (without utilizing ES5's [`"use strict"`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) or ES6 modules) you can declare a variable just by using it, without having to use `var` to declare it!
+- Try this in the Chrome console (which uses "sloppy mode" by default):
 
 ```js
 playerName = "Joe";             // where's `var` or `let`?
