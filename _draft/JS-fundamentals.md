@@ -50,15 +50,31 @@ referenceTypeTester();
 
 - https://www.cs.cornell.edu/courses/cs312/2006fa/lectures/lec26.html
 
+<hr>
+
 ## XXX. Homework
 
 **Submission: modify the HTML template below as instructed, rename the file to *Lastname-Firstname-js-fundamentals.html*, and then ZIP and POST it to the myCourses dropbox prior to the due date:***
 
-1A) Prove that the JavaScript `String` type is a *value type* by re-writing the `valueTypeTester()` function in the I-A. example above so that it utilizes this string - `"Joe"` - instead of a number 
+1A) Prove that the JavaScript `String` type is a *value type* by re-writing the `valueTypeTester()` function in the part I-A. example above so that it utilizes this string - `"Joe"` - instead of a number 
 
-1B) Prove that the JavaScript `Object` type is a *reference type* by re-writing the `referenceTypeTester()` function in the I-B. example above so that it utilizes an object instead of an array. Do so with this [Object literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) - `let a = {name: "Joe", age: 78 };` 
+1B) Prove that the JavaScript `Object` type is a *reference type* by re-writing the `referenceTypeTester()` function in the part I-B. example above so that it utilizes an object instead of an array. Do so with this [Object literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) - `let a = {name: "Joe", age: 78 };` 
 
-2A) Read the article linked in 
+2) Read the article linked in part II. above and answer the following questions (by adding text to your *Lastname-Firstname-js-fundamentals.html* file):
+
+2A) What advice does the author provide for "... the best thing to do is ..." ?
+
+2B) Give an example of *defensive programming*
+
+2C) Complete this sentence *Remember, the goal is not to become an expert at fixing bugs, but rather to ...*
+
+2D) List the 4 "classes of defects"
+
+2E) Which one of these "defects" do you feel is generally the hardest to fins and fix? (in a previous language you have used like C# or C++) Why?
+
+2F) 
+
+
 
 
 
