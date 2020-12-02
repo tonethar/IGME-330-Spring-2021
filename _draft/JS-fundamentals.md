@@ -72,7 +72,15 @@ referenceTypeTester();
 
 2E) Which one of these "defects" do you feel is generally the hardest to find and fix? (in a previous language you have used like C# or C++) Why?
 
-2F) 
+For the following questions we will look at *Debugging Strategies*
+
+2F) Describe ***Incremental and bottom-up program development***
+
+2G) How would you ***Instrument program to log information*** in JavaScript?
+
+2H) ***Instrument program with assertions*** - 
+
+- https://developer.mozilla.org/en-US/docs/Web/API/console/assert
 
 
 
