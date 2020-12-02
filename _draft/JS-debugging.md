@@ -27,9 +27,9 @@
 - Try this in the Chrome console:
 
 ```js
-name = "Joe";       // where's `var` or `let`?
-console.log(name);  // "Joe"
-console.log(window.name); // "Joe"
+playerName = "Joe";             // where's `var` or `let`?
+console.log(playerName);        // "Joe"
+console.log(window.playerName); // "Joe"
 ```
 
 <hr>
