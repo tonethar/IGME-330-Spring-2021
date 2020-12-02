@@ -66,15 +66,15 @@ referenceTypeTester();
 
 **Read the article linked in part II. above and answer the following questions (by adding text to your *myLastname-myFirstname-js-fundamentals.html* file):**
 
-2A) What advice does the author provide for "... the best thing to do is ..." ?
+2A) What advice does the author provide for *"... the best thing to do is ..."* ?
 
 2B) Give an example of *defensive programming*
 
-2C) Complete this sentence *Remember, the goal is not to become an expert at fixing bugs, but rather to ...*
+2C) Complete this sentence - *Remember, the goal is not to become an expert at fixing bugs, but rather to ...*
 
-2D) List the 4 "classes of defects"
+2D) List the 4 *"classes of defects"*
 
-2E) Which one of these "defects" do you feel is generally the hardest to find and fix? (in a previous language you have used like C# or C++) Why?
+2E) Which one of these *"defects"* do you feel is generally the hardest to find and fix? (in a previous language you have used like C# or C++) Why?
 
 **For the following questions we will look at *Debugging Strategies:***
 
@@ -94,7 +94,11 @@ a.innerHTML = "Welcome";
 
 2I) ***Use debuggers*** - What are the 2 ways you can set breakpoints in JavaScript programs?
 
-2J) 
+2J) Define ***Backtracking***
+
+2K) Explain ***Binary search***
+
+2l) Give an example of ***Problem simplification***
 
 <hr>
 
