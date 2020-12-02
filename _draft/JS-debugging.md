@@ -12,7 +12,7 @@
 
 ## II. Debugging JavaScript
 
-
+- READ and WATCH: Google Chrome Debugger: https://developers.google.com/web/tools/chrome-devtools/javascript (video embedded at top)
 
 <hr>
 
