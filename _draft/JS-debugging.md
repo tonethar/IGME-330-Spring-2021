@@ -52,7 +52,7 @@ a.innerHTML = "Welcome";
 
 - The question you need to answer is, *What makes this a helpful debugging technique?*
 
-1J) ***Use debuggers*** - What are the 2 ways you can set breakpoints in JavaScript programs?
+1J) ***Use debuggers*** - Give 2 ways you can set breakpoints in JavaScript programs:
 
 1K) Define ***Backtracking***
 
