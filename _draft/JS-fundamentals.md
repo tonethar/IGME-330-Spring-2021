@@ -78,17 +78,24 @@ referenceTypeTester();
 
 2G) How would you ***Instrument program to log information*** in JavaScript?
 
-2H) ***Instrument program with assertions*** is a good technique - JavaScript has `console.assert()` - described here: https://developer.mozilla.org/en-US/docs/Web/API/console/assert - and here's an example:
+2H) ***Instrument program with assertions*** is a good technique for "reality testing" while developing - JavaScript has `console.assert()` - described here: https://developer.mozilla.org/en-US/docs/Web/API/console/assert - and here's an example:
 
 ```js
 let a = document.querySelector("#content");
-console.assert(a !== undefined, "a is undefined!");
+console.assert(a !== null, "a is undefined!"); // program will halt here if a IS null (i.e. if the assertion fails)
 a.innerHTML = "Welcome";
 ```
 
+- The question you need to answer is, *What makes this a helpful debugging technique?*
 
+2I) ***Use debuggers*** - What are the 2 ways you can set breakpoints in JavaScript programs?
 
+2J) 
 
+3) See the top of this page - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
+- What do we mean when we say that JavaScript is a "loosely typed and dynamic language"?
+- Give an example
 
 **Coder-Ace-js-fundamentals.html**
 
