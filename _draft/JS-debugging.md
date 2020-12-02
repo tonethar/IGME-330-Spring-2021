@@ -1,5 +1,9 @@
 # JS Debugging
 
+- Do you ALWAYS write perfect code that runs flawlessly the first time you test it? Neither do we!
+- Today we are going to discuss debugging techniques we can use with the JavaScript programs we will write for this class
+
+<hr>
 
 ## I. Code Debugging Concepts
 
