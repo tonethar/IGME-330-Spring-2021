@@ -13,11 +13,11 @@
 
 ## XXX. Homework
 
-**Submission: modify the HTML template below as instructed, rename the file to *myLastname-myFirstname-js-fundamentals.html*, and then ZIP and POST it to the myCourses dropbox prior to the due date:***
+**Submission: copy the text below and paste it into a text editor, answer the questions, and ten export the file in PDF format (only) with a file name of *myLastname-myFirstname-debugging.pdf*, and then POST it to the myCourses dropbox prior to the due date:***
 
 <hr>
 
-**Read the article linked in part I. above and answer the following questions (by adding text to your *myLastname-myFirstname-js-fundamentals.html* file):**
+**1) Read the article linked in part I. above and answer the following questions (by adding text to your *myLastname-myFirstname-js-fundamentals.html* file):**
 
 1A) What advice does the author provide for *"... the best thing to do is ..."* ?
 
