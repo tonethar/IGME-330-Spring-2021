@@ -34,13 +34,15 @@
 
 1E) Which one of these *"defects"* do you feel is generally the hardest to find and fix? (in a previous language you have used like C# or C++) Why?
 
+1F) Give an example of a *"defects"* that most frequently ends up in your code:
+
 **For the following questions we will look at *Debugging Strategies:***
 
-1F) Describe ***Incremental and bottom-up program development***
+1G) Describe ***Incremental and bottom-up program development***
 
-1G) How would you ***Instrument program to log information*** in JavaScript?
+1H) How would you ***Instrument program to log information*** in JavaScript?
 
-1H) ***Instrument program with assertions*** is a good technique for "reality testing" while developing - JavaScript has `console.assert()` - described here: https://developer.mozilla.org/en-US/docs/Web/API/console/assert - and here's an example:
+1I) ***Instrument program with assertions*** is a good technique for "reality testing" while developing - JavaScript has `console.assert()` - described here: https://developer.mozilla.org/en-US/docs/Web/API/console/assert - and here's an example:
 
 ```js
 let a = document.querySelector("#content");
@@ -50,21 +52,21 @@ a.innerHTML = "Welcome";
 
 - The question you need to answer is, *What makes this a helpful debugging technique?*
 
-1I) ***Use debuggers*** - What are the 2 ways you can set breakpoints in JavaScript programs?
+1J) ***Use debuggers*** - What are the 2 ways you can set breakpoints in JavaScript programs?
 
-1J) Define ***Backtracking***
+1K) Define ***Backtracking***
 
-1K) Explain ***Binary search***
+1L) Explain ***Binary search***
 
-1L) Give an example of ***Problem simplification***
+1M) Give an example of ***Problem simplification***
 
-1M) Give an example of ***A scientific method: form hypotheses***
+1N) Give an example of ***A scientific method: form hypotheses***
 
-1N) What is ***Bug clustering***?
+1O) What is ***Bug clustering***?
 
-1O) We will talk about ***Error-detection tools*** in the next section (*no answer required*)
+1P) We will talk about ***Error-detection tools*** in the next section (*no answer required*)
 
-1P) Note two of the additional strategies that were suggested (*no answer required*):
+1Q) Note two of the additional strategies that were suggested (*no answer required*):
 
 - *The bug may not be where you expect it.* It a large amount of time has unsuccessfully been spent inspecting a particular piece of code, the error may not be there. Keep an open mind and start questioning the other parts of the program.
 - *Make sure you have the right source code.* One must ensure that the source code being debugged corresponds to the actual program being run ... (WE SEE THIS ALL THE TIME)
