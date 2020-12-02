@@ -6,7 +6,9 @@
 
 - A primitive type (e.g. `Number`, `Boolean`, `null`, `undefined`) has a fixed size in memory. `Number` occupies eight bytes of memory, and a `Boolean` value can be represented with only one bit. We say that they are stored *by value*.
 - `Object` and `Array` types do not have a fixed size. Instead, the variable stores a *reference* (e.g. pointer or memory address) to the value. This reference is not the data value itself, but it tells the variable where to look to find the value.
-- Strings ARE variable size (like reference types), but because they immutable they behave like value types (see the HW below)
+- Strings ARE variable size (like reference types), but because they are *immutable* they behave like value types (see the HW below)
+- Handy resources:
+  - https://www.educative.io/courses/step-up-your-js-a-comprehensive-guide-to-intermediate-javascript/7nAZrnYW9rG
 
 
 ### I-A. *Value* type example
