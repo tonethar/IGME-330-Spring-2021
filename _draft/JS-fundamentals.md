@@ -70,7 +70,7 @@ referenceTypeTester();
 
 2D) List the 4 "classes of defects"
 
-2E) Which one of these "defects" do you feel is generally the hardest to fins and fix? (in a previous language you have used like C# or C++) Why?
+2E) Which one of these "defects" do you feel is generally the hardest to find and fix? (in a previous language you have used like C# or C++) Why?
 
 2F) 
 
