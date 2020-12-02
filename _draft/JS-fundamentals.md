@@ -72,15 +72,19 @@ referenceTypeTester();
 
 2E) Which one of these "defects" do you feel is generally the hardest to find and fix? (in a previous language you have used like C# or C++) Why?
 
-For the following questions we will look at *Debugging Strategies*
+**For the following questions we will look at *Debugging Strategies:***
 
 2F) Describe ***Incremental and bottom-up program development***
 
 2G) How would you ***Instrument program to log information*** in JavaScript?
 
-2H) ***Instrument program with assertions*** - 
+2H) ***Instrument program with assertions*** is a good technique - JavaScript has `console.assert()` - described here: https://developer.mozilla.org/en-US/docs/Web/API/console/assert - and here's an example:
 
-- https://developer.mozilla.org/en-US/docs/Web/API/console/assert
+```js
+let a = document.querySelector("#content");
+console.assert(a !== undefined, "a is undefined!");
+a.innerHTML = "Welcome";
+```
 
 
 
