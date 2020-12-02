@@ -1,7 +1,7 @@
 # JS Debugging
 
 
-## I. Debugging Concepts
+## I. Code Debugging Concepts
 
 - If the output or behavior of a program is not what the developer expected, then the program is incorrect -- it contains ***errors*** (aka ***bugs***)
 - This testing reveals the existence of programming errors, but not the cause of errors. The programmer must then go through a *debugging process* in order to be able to identify the causes and then fix the errors:
