@@ -2,7 +2,8 @@
 ## Spring 2021: Syllabus
 
 ## I. Course Catalog Description 
-*This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs). This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications. Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation. Individual and group programming projects will be required. 3 Credits*
+*	
+This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications.  Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required. 3 Credits*
 
 ## II. Prerequisites
 **IGME-230 or IGME-235 or equivalent course**
