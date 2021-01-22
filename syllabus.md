@@ -26,7 +26,7 @@
 - Section 03 - TR 11:00AM-12:15PM
 - Section 04 - TR 5:00PM-6:15PM
 - Professor: Andy Wheeland  
-- Email: 
+- Email: anwigm@rit.edu
 - Office hours:
   - TBA
 
