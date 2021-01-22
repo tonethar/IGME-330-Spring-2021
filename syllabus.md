@@ -52,23 +52,27 @@ Final course grades are determined using the following scale:
 | 65+%	| D |
 | <65%	| F |
 
-### Projects (60%)
-* Project 1 (10%) - [Interactive Sandbox](projects/project-1.md)
-* Project 2 (20%) - [Audio Visualizer](projects/project-2.md)
-* Project 3 (30%) - [MVVM Web Application](projects/project-3.md)
+### Projects (50%)
+* Project 1  - [Interactive Sandbox](projects/project-1.md)
+* Project 2  - [MVVM Web Application](projects/project-2.md)
 
+### Homework (20%)
+Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment (or "Check off", see below) per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments.
 
-### Quizzes (15%)
-These quizzes (3-4 during semester) consist of short answer, multiple choice, and "write some code" questions. There will be no make-ups or re-takes allowed without prior permission.
+### Check Offs (10%)
+"Check offs" are required checkpoints or smaller HW assignments:
+  - https://giphy.com/gifs/tos-big-hair-poofy-IgGNIfJx7bYHfEV3c8
 
-### Homework (15%)
-Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments.
+### Zoom/Participation (10%)
+1 absence = no penalty, 2 = -2%, 3 = -5%, 4 = -10%, 5+ = additional -5% per absence (Yes, at 5+ absences that's a *negative* grade that reduces your oveall grade even further. myCourses is able to calculate that). You can request to be excused from a class meeting, write us in advance of the meeting. If you can't attend class for any reason, always let us know *in advance*.
 
-Homework and ICEs will NOT be accepted late without a valid excuse (procrastination, and missing the dropbox by 1 minute, are not valid excuses). If you feel you have legitimate excuse, please contact the professor outside of class either by email or during office hours.
+### Zoom/Participation (10%)
+Homework and Check offs will NOT be accepted late without a valid excuse (procrastination, and missing the dropbox by 1 minute, are not valid excuses). If you feel you have legitimate excuse, please contact the professor outside of class either by email or during office hours.
+
+### Midterm Exam (10%)
+Will be given online, on or around week 10.
 
 **Important!** - When you submit web file(s) (HTML,CSS,JavaScript) to mycourses dropboxes, they (or the folder they are contained in) must be zipped. If you do not do so, mycourses will strip out all of the CSS and JavaScript, and leave you with a non-functioning and ugly web page. Unzipped assignments will therefore usually receive a grade of zero.
-
-### Attendance & Participation (10%)
 
 
 ### Policy on Incomplete Grades
