@@ -66,9 +66,6 @@ Completing the HW and in-class exercises is essential to learning the course mat
 ### Zoom/Participation (10%)
 1 absence = no penalty, 2 = -2%, 3 = -5%, 4 = -10%, 5+ = additional -5% per absence (Yes, at 5+ absences that's a *negative* grade that reduces your oveall grade even further. myCourses is able to calculate that). You can request to be excused from a class meeting, write us in advance of the meeting. If you can't attend class for any reason, always let us know *in advance*.
 
-### Zoom/Participation (10%)
-Homework and Check offs will NOT be accepted late without a valid excuse (procrastination, and missing the dropbox by 1 minute, are not valid excuses). If you feel you have legitimate excuse, please contact the professor outside of class either by email or during office hours.
-
 ### Midterm Exam (10%)
 Will be given online, on or around week 10.
 
