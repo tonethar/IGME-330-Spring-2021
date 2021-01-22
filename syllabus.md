@@ -73,7 +73,7 @@ Completing the HW and in-class exercises is essential to learning the course mat
 "Check offs" are required checkpoints or smaller HW assignments:
   - https://giphy.com/gifs/tos-big-hair-poofy-IgGNIfJx7bYHfEV3c8
 
-### Zoom/Participation (10%)
+### Zoom Attendance/Participation (10%)
 1 absence = no penalty, 2 = -2%, 3 = -5%, 4 = -10%, 5+ = additional -5% per absence (Yes, at 5+ absences that's a *negative* grade that reduces your oveall grade even further. myCourses is able to calculate that). You can request to be excused from a class meeting, write us in advance of the meeting. If you can't attend class for any reason, always let us know *in advance*.
 
 ### Midterm Exam (10%)
