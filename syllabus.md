@@ -26,7 +26,7 @@
 - Section 03 - TR 11:00AM-12:15PM
 - Section 04 - TR 5:00PM-6:15PM
 - Professor: Andy Wheeland  
-- Email: anwigm@rit.edu
+- Email: anwigm@rit.edu (Please contact through Slack Direct Message whenever possible - see workspace link below)
 - Office hours:
   - TBA
 
@@ -36,6 +36,7 @@
 - most of the course content will be located on this GitHub site
 - https://mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
 - keep an eye on the dropboxes in mycourses for assignment due dates
+- you will be expected to participate in this multi-section Slack workspace throughout the semester: https://rit-igme-330-2205.slack.com
 
 ### Course Textbook
 **Title:** *Safari HTML5 Canvas Guide*
