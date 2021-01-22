@@ -20,7 +20,7 @@
 - [Week 12 (Apr 19) : Vue.js & MVVM (Thurs. 4/22 - Recharge Day #3)](#week12)
 - [Week 13 (Apr 26) : Cloud Data & JavaScript Topics](#week13)
 - [Week 14 (May 03) : Catchup (Mon 5/3 is "Treat as a Thursday class day", Wed 5/5 is final day of classes)](#week14)
-- [Finals Week Meeting](#finalsweek)
+- [Finals Week Meeting : (Final exam week ends on Thurs 5/13)](#finalsweek)
 
 
 ## <a id="week1">Week 1 : Course Intro & Review of Basic Web App Structure
