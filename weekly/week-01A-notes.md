@@ -37,54 +37,40 @@ Official description from SIS: *This course provides students the opportunity to
 
 <hr>
 
-***WEEK-0 COMMUNICATION***
+## V. Communication Details
 
 - What name do you call me?
   - "Professor", "Professor Jefferson", or "Tony" all work
-- Discord
+  - "Professor", "Professor Wheeland", or "Andy" all work
+- Slack
   - Invites:
     - Change your nickname to your real name & section (ex. "Grace Hopper 01")
     - Post an Intro
   - Professional/SFW: Be aware of your status text (ex. "f-ing losing at Fortnight!" won't cut it)
 - Zoom Professionalism
-    - Article link (paywalled): https://www.wsj.com/articles/seven-rules-of-zoom-meeting-etiquette-from-the-pros-11594551601
-    - The PDF of this article is in myCourses
-    - Zoom - hold space bar to talk. But before you ask a question, first ask yourself "will others benefit from this question?"
-      - if you are not sure they will, then post to the class Discord `#live-chat` channel
+  - Article link (paywalled): https://www.wsj.com/articles/seven-rules-of-zoom-meeting-etiquette-from-the-pros-11594551601
+  - The PDF of this article is in myCourses
  - Participation/Engagement (10% of grade)
    - Zoom meetings
-     - be on time (there's a waiting room for our Zoom meetings, so it's pretty obvious when someone is late)
+     - be on time
      - keep web cam on, and microphone muted
-     - you could get called on at anytime, so be ready to respond 
-   - Discord Invite & Introduction & Logistics Survey
-     - if I have to ask multiple times, it will hurt your participation grade
-   - There will be several (graded) Discord discussion threads during the semester
-
-      
+     - you could get called on at anytime, so be ready to respond
+     
 ***WEEK-0 ASSIGNMENT***
 
 - *Technobabble* is due before we meet again - see myCourses dropbox
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
 
-***WEEK-0 INTRODUCTIONS ("Do I have to?" - YES!)***
-- Introductions - we'll do this alphabetically - so be ready:
- - 1) name/major/year
- - 2) where you are physically located right now
- - 3) your favorite food
- - 4) something interesting you did this summer
- - "Next!"
-
 <hr>
 
-## V. Required Reading & Assignments
+## VI. Required Reading & Assignments
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
 * [Project 1 *Interactive Sandbox*](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course
-* [Project 2 *Audio Visualizer* Showcase Video](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
 * Keep an eye on the *Content* section of mycourses.rit.edu for "done" in-class demo files
 * Keep an eye on the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
-## VI. Starter Code
+## VII. Starter Code
 
 **starter.html**
 
@@ -105,7 +91,7 @@ Official description from SIS: *This course provides students the opportunity to
 
 <a id="review-questions"></a>
  
-## VII. Review notes and video on your own - JavaScript/DOM Review & Demo
+## VIII. Review notes and video on your own - JavaScript/DOM Review & Demo
 
 - 1. What is JavaScript?
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -166,7 +152,7 @@ Official description from SIS: *This course provides students the opportunity to
   - *Declaratively* (using CSS) make the button 50 pixels tall by 100 pixels wide
   - *Imperatively* (using JavaScript) give the paragraph a red text color, and a yellow background color
 
-## VIII. Videos of JS & DOM Review demo
+## IX. Videos of JS & DOM Review demo
 
 We aren't always going to have video links, but here they are in case we run out of time today:
 
@@ -180,7 +166,7 @@ We aren't always going to have video links, but here they are in case we run out
 - [JSReview-4: Working with DOM & Refactoring Greeter App (13:26)](https://video.rit.edu/Watch/js-review-4-working-with-dom-B)
 
 
-## IX. Today's Activities
+## X. Today's Activities
 
 1) (This lecture is recorded) 
 2) Questions from last time?
