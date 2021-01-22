@@ -5,6 +5,7 @@ Welcome to the course!
 ## I. Overview
 Welcome to IGME-330 *Rich Media Web Application Development I*. In this "creative coding" course you will be building on top of IGME-230/235 and constructing compelling interactive experiences that can be viewed over the web. You will also be learning about how to build more robust and modular web software by utilizing more features of JavaScript ES6, with tools like Node.js and npm, and MVVM frameworks such as Vue.js
 
+<hr>
 
 ## II. Prerequisites
 IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understanding of these topics:
@@ -14,10 +15,12 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 ### \*\*Important - Before class begins\*\*
 - Review the topics in these ten [IGME-230/235 Web App tutorials](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md#section4) - most of this material should have been covered in your IGME-230 section. If you need a refresher on any of these topics, just go through the applicable tutorials at the link above. If you have any questions at all, or would like to have an assignment checked for accuracy, go ahead and reach out to me via email.
 
+<hr>
 
 ## III. Course Description & Topics
 Official description from SIS: *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs).  This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications.  Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation.*
 
+<hr>
 
 ## IV. Pedagogy (how this course is taught!)
 - ***You need to review the week's lecture notes *prior* to attending class for that week***
@@ -70,6 +73,8 @@ Official description from SIS: *This course provides students the opportunity to
 * Keep an eye on the *Content* section of mycourses.rit.edu for "done" in-class demo files
 * Keep an eye on the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
+<hr>
+
 ## VII. Starter Code
 
 **starter.html**
@@ -88,6 +93,8 @@ Official description from SIS: *This course provides students the opportunity to
 </body>
 </html>
 ```
+
+<hr>
 
 <a id="review-questions"></a>
  
@@ -152,6 +159,8 @@ Official description from SIS: *This course provides students the opportunity to
   - *Declaratively* (using CSS) make the button 50 pixels tall by 100 pixels wide
   - *Imperatively* (using JavaScript) give the paragraph a red text color, and a yellow background color
 
+<hr>
+
 ## IX. Videos of JS & DOM Review demo
 
 We aren't always going to have video links, but here they are in case we run out of time today:
@@ -165,6 +174,7 @@ We aren't always going to have video links, but here they are in case we run out
 - [JSReview-3: Working with DOM & Creating Greeter App (12:19)](https://video.rit.edu/Watch/js-review-3-working-with-dom-A)
 - [JSReview-4: Working with DOM & Refactoring Greeter App (13:26)](https://video.rit.edu/Watch/js-review-4-working-with-dom-B)
 
+<hr>
 
 ## X. Today's Activities
 
