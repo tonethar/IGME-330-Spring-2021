@@ -4,8 +4,12 @@
 ## I. Course Catalog Description 
 *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications.  Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required. 3 Credits*
 
+<hr>
+
 ## II. Prerequisites
 **IGME-230 or IGME-235 or equivalent course**
+
+<hr>
 
 ## III. Instructor and Class Details 
 - All class meetings are online in Zoom, see myCourses for meeting link
@@ -26,6 +30,8 @@
 - Office hours:
   - TBA
 
+<hr>
+
 ## IV. Course Materials and Communication
 - most of the course content will be located on this GitHub site
 - https://mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
@@ -38,8 +44,12 @@ Free on web!
 - HTML Version: https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/Introduction/Introduction.html
 - See mycourses for the example files
 
+<hr>
+
 ## V. Attendance
 Attendance is mandatory and you are expected to be on time. Lectures will start promptly at the beginning of class, and will be followed by an in-class assignment or exercise that you are expected to work on until the end of the meeting (i.e. no leaving early).
+
+<hr>
 
 ## VI. Grading
 Final course grades are determined using the following scale: 
@@ -80,12 +90,18 @@ Incomplete grades will be given only in the most exceptional circumstances, sole
 [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html)
 - **Duplicate submission** is the submitting of the same or similar work for credit in more than one course without prior approval of the instructors for those same courses. *If you took IGME-330 previously, you **may not hand** in code that you previously submitted (for example, a previous version Project 1 Audio Visualizer)*
 
+<hr>
+
 ## VII. Important RIT Deadlines
 - Note the deadlines for Add/Drop & "W" here: https://www.rit.edu/calendar
 - You have one semester after the class has ended to challenge your grade. 
 
+<hr>
+
 ## VIII. Notices of Accommodation
 If you have a "Notice of Accommodation", I should have received a copy electronically. Please discuss this with me after class or during my office hours, so that I can make sure all of your accommodations are met.
+
+<hr>
 
 ## IX. Discrimination and Harassment
 RIT is committed to providing a safe learning environment, free of harassment and discrimination as articulated in our university policies located on our governance website.  RIT’s policies require faculty to share information about incidents of gender based discrimination and harassment with RIT’s Title IX coordinator or deputy coordinators, regardless whether the incidents are stated to them in person or shared by students as part of their coursework. 
@@ -104,6 +120,8 @@ If you have a concern related to gender-based discrimination and/or harassment a
 585-475-2137.
 6.	NTID Counseling & Academic Advising Services – 2nd Floor Lynden B. Johnson
 585-475-6468 (v), 585-286-4070 (vp)
+
+<hr>
 
 ## X. Finally...
 Any or all of the previous information is subject to change or modification during the semester. Any changes to the syllabus will be visible here on GitHub, and will be announced in class. 
