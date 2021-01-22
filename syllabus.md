@@ -81,7 +81,7 @@ Completing the HW and in-class exercises is essential to learning the course mat
 Will be given online, on or around week 10.
 
 ### Policy on Incomplete Grades
-Incomplete grades will be given only in the most exceptional circumstances, soley for issues that arise AFTER the 'W' deadline has passed at the end of week 11, and then only by prior arrangement with the professor. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework is not sufficient justification for an "I". Instead, meet with the professor ASAP as early as possible in the semester if you're having difficulty. 
+Incomplete grades will be given only in the most exceptional circumstances, soley for issues that arise AFTER the 'W' deadline has passed, and then only by prior arrangement with the professor. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework is not sufficient justification for an "I". Instead, meet with the professor as early as possible in the semester if you're having difficulty. 
 
 ### Academic Dishonesty
 - The course policy on academic dishonesty is simple: If you get caught cheating or plagiarizing or commiting duplicate submission without permission, you get an "F" as a grade for the course, a letter detailing the incident goes into your records folder, and you are immediately removed from the class. (If this is a second occurrence during your career at RIT, the penalties are harsher.) Please review RIT's policy on academic dishonesty: 
