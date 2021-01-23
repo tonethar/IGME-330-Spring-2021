@@ -107,6 +107,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   - "Professor", "Professor Wheeland", or "Andy" all work
 - Slack
   - Invites:
+    - https://rit-igme-330-2205.slack.com
     - Change your nickname to your real name & section (ex. "Grace Hopper 01")
     - Post an Intro
   - Professional/SFW: Be aware of your status text (ex. "f-ing losing at Fortnight!" won't cut it)
