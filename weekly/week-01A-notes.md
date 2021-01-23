@@ -20,17 +20,36 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 ## III. Course Description & Topics
 Official description from SIS: *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications. Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required.*
 
+### How "Web Apps" used to be made
+- Since 1995 there have been many ways to build web enabled applications, but this was mostly with proprietary tools such as:
+  - Java Applets - The Java runtime was huge and really slow to download in the [dial up](https://en.wikipedia.org/wiki/Dial-up_Internet_access) era)
+  - Macromedia Director - bitmapped animations - originally a CD ROM publishing tool, updated for the web
+  - Macromedia (later Adobe) Flash - animated vector graphics - was more or less killed when Steve Jobs refused to allow it on the iPhone
+  - Adobe Flex - used the Flash player, but with standard UI components that made construction of typical applications easier
+  - Microsoft Silverlight - similar to Flex
+- The main issues with these "rich internet" platforms included:
+  - developers had to pay for an IDE
+  - lower than desired adoption rates by users
+  - Since 2010, the number of mobile Internet devices has exploded, and most of these don't support the above platforms because the mobile vendors considered them slow, insecure, buggy, and memory hogs
+  
+  
 ### "Vanilla JavaScript"
-- Since 1995 there have been many ways to build web enabled applications, but this was mostly with propietary tools
 - Much of this course will be taught in "Vanilla JavaScript", which is JavaScript that works without relying on any external frameworks such as jQuery or React:
   - https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
 - VanillaJS relies on open [*web standards*](https://www.w3.org/standards/), which evolve slowly and are generally backward compatiable
-- One nice thing about VanillaJS is that it ages *well*, frameworks? Not so much!:
-  - A JavaScript/DOM "vanilla" web app written in the "aughties" (2000-2009) would still work today, or require only minimal modification to run
-  - in 10 years (or even 5), will a typical React app still run in a web browser?
-    - *Probably NOT*
-  - And if it didn't, how easy would it be to edit the JSX code and republish it?
-    - *More than likely the code would have to be completely re-written*
+- One nice thing about VanillaJS is that it ages *well*, much better than the "rich internet" platforms listed above. A JavaScript/DOM "vanilla" web app written in the "aughties" (2000-2009) would still work today, or require only minimal modification to run
+  - How will web frameworks like jQuery, and especially React, "age"? Probably not well!:
+    - in 10 years (or even 5), will a typical React app still run in a web browser?
+      - *Probably NOT*
+    - And if it didn't, how easy would it be to edit the JSX code and republish it?
+      - *More than likely the code would have to be completely re-written, and then re-compiled*
+      
+### "Web Frameworks"
+- Don't get us wrong here, we LOVE making apps in Web Frameworks like Vue.js (which we will do later on in this course) and ReactJS (which is covered in the next course IGME-430:
+  - and in large swaths of the industry, frameworks like Angular and React are what is used to make web apps
+- But, because web frameworks come and go, while web standards are much more stable, the best way to learn JS is to first learn "Vanilla JS":
+  - then, no matter what hot new web framework comes along, you'll be able to learn it because you understand the fundamental web technologies that it is built on top of
+
 <hr>
 
 ## IV. Pedagogy (how this course is taught!)
