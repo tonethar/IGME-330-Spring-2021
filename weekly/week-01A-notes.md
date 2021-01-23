@@ -66,13 +66,14 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   - no one company owns the platform!
 - VanillaJS seems to "age well", much better than the "rich internet" platforms listed above
   - for example, a JavaScript/DOM "vanilla" web app written in the "aughties" (2000-2009) would still work today, or require only minimal modification to run
-- How will web frameworks like jQuery, and especially React, "age"? Probably not well!
+
+      
+### "Web Frameworks"
+- How will web frameworks like [jQuery](https://jquery.com/), and especially React, "age"? Probably not well!
   - in 10 years (or even 5), will a typical React app still run in a web browser?
     - *Probably NOT*
   - And if it didn't, how easy would it be to edit the JSX code (proprietary web components) and republish it?
-    - *More than likely the code would have to be completely re-written, and then re-compiled*
-      
-### "Web Frameworks"
+    - *More than likely the code would have to be completely re-written, in "React 10"?,  and then re-compiled*
 - Don't get us wrong here, we LOVE making apps in Web Frameworks like Vue.js (which we will do later on in this course) and ReactJS (which is covered in the next course IGME-430:
   - and in large swaths of the industry, frameworks like Angular and React are what is used to make web apps
 - But, because web frameworks come and go, while web standards are much more stable, the best way to learn JS is to first learn "Vanilla JS":
