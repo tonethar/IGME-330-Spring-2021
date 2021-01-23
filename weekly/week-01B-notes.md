@@ -40,6 +40,7 @@
   - Change the "Click Me" button text to "Hello" 
   - Add a "Last Name" field the user can type into
   - When the user clicks the "Hello" button they will greeted with both their first and last name
+  - If no value is entered for the "First Name", the default value will be "James"
   - If no value is entered for the "Last Name", the default value will be "Bond"
   - Add a second button with the text of "Goodbye"
   - When the user clicks the "Goodbye" button, it will function nearly identical to the "Hello" button, except it will display "Goodbye `<firstName>` `<lastName>`"
