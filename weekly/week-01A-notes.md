@@ -57,7 +57,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
  
 ### "Vanilla JavaScript"
-- One way to delay app obsolesence is to write code on a relatively stable application platform
+- One way to minimize app obsolesence is to write code on a relatively stable application platform
 - Much of this course will be taught in browser "Vanilla JavaScript", which is JavaScript that works without relying on any external frameworks such as jQuery or React:
   - https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
 - VanillaJS relies on open [*web standards*](https://www.w3.org/standards/):
@@ -69,15 +69,16 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
       
 ### "Web Frameworks"
-- How will web frameworks like [jQuery](https://jquery.com/), and especially React, "age"? Probably not well!
+- How will web frameworks like [jQuery](https://jquery.com/), and especially [ReactJS](https://reactjs.org/), "age"? Probably not well!
   - in 10 years (or even 5), will a typical React app still run in a web browser?
     - *Probably NOT*
-  - And if it didn't, how easy would it be to edit the JSX code (proprietary web components) and republish it?
+  - And if it didn't, how easy would it be to edit the JSX code (JSX=proprietary web components) and republish it?
     - *More than likely the code would have to be completely re-written, in "React 10"?,  and then re-compiled*
-- Don't get us wrong here, we LOVE making apps in Web Frameworks like Vue.js (which we will do later on in this course) and ReactJS (which is covered in the next course IGME-430:
+- Don't get us wrong here:
+  - we LOVE making apps in Web Frameworks like Vue.js (which we will do later on in this course) and ReactJS (which is covered in the next course IGME-430)
   - and in large swaths of the industry, frameworks like Angular and React are what is used to make web apps
 - But, because web frameworks come and go, while web standards are much more stable, the best way to learn JS is to first learn "Vanilla JS":
-  - then, no matter what hot new web framework comes along, you'll be able to learn it because you understand the fundamental web technologies that it is built on top of
+  - then, no matter what hot new web framework comes along, you'll be able to easily learn it because you understand the foundational web technologies that this hot new web framework is built on top of
 
 <hr>
 
