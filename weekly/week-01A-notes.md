@@ -241,12 +241,11 @@ We aren't always going to have video links, but here they are in case we run out
 
 ## XI. Today's Activities
 
-1) Review section I. - VII. above that discuss this course
-  - questions?
+1) Review sections I. - VII. above that discuss this course
   
 2) Grab the starter code in section VIII.
 
-3) Section IX. - We will begin to work through the first part of this demo by reviewing what is covered in the 1st and 2nd videos linked above
+3) Section IX. - ee will begin to work through the first part of this demo by reviewing what is covered in the 1st and 2nd videos linked above
 
 4) Next time we will finish up the above demo, and you will have a HW assignment that build on this material
 
