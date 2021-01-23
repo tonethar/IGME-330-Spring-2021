@@ -51,11 +51,11 @@
 
 <hr>
 
+- Click the "Hello" button:
+
 ![screenshot](_images/1B-hello-goodbye-1.png)
 
-<hr>
-
-<hr>
+- Click the "Goodbye" button:
 
 ![screenshot](_images/1B-hello-goodbye-2.png)
 
