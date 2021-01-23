@@ -53,7 +53,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   - Since 2010, the number of mobile Internet devices has exploded, and most of these don't support the above platforms because the mobile vendors considered them slow, insecure, buggy, and memory hogs
 - Premature obsolesence hurts!
   - The Flash plugin no longer runs on any current browers, and is no longer supported by Adobe. So if you authored a Flash app back in 2011 (or even 2014, as NMID was still teaching it then) and wanted to update it, how would you do so?
-    - Answer: You can't! You would have to first find an old Flash IDE to access the code and media files, and then you would have to port then entire codebase to another platform
+    - Answer: You can't! You would have to first find an old Flash IDE to access the code and media files, and then you would have to port the entire codebase to another platform
 
  
 ### "Vanilla JavaScript"
