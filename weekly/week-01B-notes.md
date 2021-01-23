@@ -1,60 +1,52 @@
-# Week 1B - Introduction to Canvas
-
-Welcome to day 2! We have quite a bit to cover today. If we don't get to cover everything during the class time, you are expected to get this material by watching the video links at the bottom of this page.
+# Week 1B - More JavaScript Review
 
 ## I. Overview
-Canvas is a 2D bitmap drawing API that allows the developer to write code that draws shapes and images into a browser window without the need for a plug-in like Flash or Java. 
 
-## II. Required Reading & Assignments
-* "Hello Canvas" HW -> [HW-hello-canvas.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md)
-* Study Guide-1 -> [HW-SG-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md)
-* Fix The Code-1 (we'll do this in class) -> [HW-fix-the-code-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-fix-the-code-1.md)
+- Welcome to day 2! We are going to continue our review of basic JavaScript and the DOM, and cover the material in the third and 4th videos from last time:
+  - see the [Week 1A - JS review notes](week-01A-notes.md#js-review-notes)
+  - and [Week 1A - JS review videos](week-01A-notes.md#js-review-video-links)
+  - if we don't get to cover all of this material during the class time, you are expected to get this material by watching the video links at the bottom of this page
+  - Here is the start code for the demo (and Homework)
 
-## III. Reference
-- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
-- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+**say-hello-2.html**
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Greeter</title>
+    <style>
+      *{font-size:1.5em;}
+    </style>
+    <script>
+    'use strict';
+    </script>
+  </head>
+<body>
+  <button>Click Me!</button>
+  <input id="firstName" placeholder="Type in your name">
+  <p id="output">???</p>
+</body>
+</html>
+```
 
-### III-A. The canvas specification
-*When in doubt, read the spec!*
-- https://www.w3.org/TR/2dcontext/
-- https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
 
-## IV. Presentations
-- [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
 
-## V. Demo & HW
-- [Intro to the Canvas 2D Drawing API (includes "screen saver" HW)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-1.md)
+## II. Homework
+- Easy!
+- Take the final version of what we created in the last video (the **say-hello-3.html** file):
+  - Change the "Click Me" button text to "Hello" 
+  - Add a "Last Name" field the user can type into
+  - When the user clicks the "Hello" button they will greeted with both their first and last name
+  - If no value is entered for the "last name", the default value will be "Bond"
+  - Add a second button with the text of "Goodbye"
+  - When the user clicks the "Goodbye" button, it will function nearly identical to the "Hello" button, except it will display "Goodbye `<firstName>` `<lastName>`"
+  - See screenshot below
 
-## VI. Videos of lecture & demos
 
-We aren't always going to have video links, but here they are:
 
-- [Week 1B - Canvas Intro-1 (11:40)](https://video.rit.edu/Watch/w7CXx43H):
-  - Intro to Canvas2D API
-  - Obtaining a drawing *context* with `canvas.getContext("2d")`
-  - Canvas2D *convenience method*: `ctx.fillRect()`
-  - Canvas2D property: `ctx.fillStyle`
-- [Week 1B - Canvas Intro-2 (13:24)](https://video.rit.edu/Watch/Bs62Kqo5):
-  - Fill and stroke rectangles, lines & circles
-  - Canvas2D methods for describing a path :`ctx.beginPath()`, `ctx.closePath()`, `ctx.rect()`, `ctx.moveTo()`, `ctx.lineTo()` & `ctx.arc()`
-  - Canvas2D methods for rendering a path: `ctx.fill()` & `ctx.stroke()`
-  - Canvas2D state properties: `ctx.strokeStyle` & `ctx.lineWidth`
-- [Week 1B - Canvas Intro-3 (10:27)](https://video.rit.edu/Watch/j3P6BkYe):
-  - HW Starter code - begin building "ScreenSaver App" (*The 80's are calling and want their flying toasters back!*)
-  - utilize helper functions and calling `getRandomColor()` and `getRandomInt()` from the console
-  - write a helper function: `drawRandomRect()`
-  - animation: `update()` function & `window.requestAnimationFrame()`
-- [Week 1B - Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7):
-  - keep working on "ScreenSaver App" 
-  - Canvas2D *drawing state stack* methods: `ctx.save()` & `ctx.restore()`
-  - more helper functions: `drawRandomCircle()`, `drawRandomLine()` & `cls()`
-  - Canvas2D *convenience method*: `ctx.clearRect()`
-  - `window.setTimeout()`
-- [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L):
-  - finish "ScreenSaver App" 
-  - Canvas2D property: `ctx.globalAlpha`
-  - Demo: ES6 arrow function
-  - Demo: ES6 template string
+
+
 
 <hr><hr>
 
