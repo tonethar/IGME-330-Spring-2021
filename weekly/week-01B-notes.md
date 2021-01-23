@@ -20,14 +20,14 @@
     <style>
       *{font-size:1.5em;}
     </style>
-    <script>
-    'use strict';
-    </script>
   </head>
 <body>
   <button>Click Me!</button>
   <input id="firstName" placeholder="Type in your name">
   <p id="output">???</p>
+  <script>
+    'use strict';
+  </script>
 </body>
 </html>
 ```
