@@ -131,7 +131,8 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   - Keep an eye on the *Content* section of mycourses.rit.edu for "done" in-class demo files
   - Keep an eye on the mycourses.rit.edu dropboxes to see what is assigned and when it is due
   - *Technobabble* is due before we meet again - see myCourses dropbox for due date:
-  - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
+    - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
+    - Let's look at the "done" version - it's simple, but looks good on mobile and is responsive
 
 <hr>
 
@@ -158,7 +159,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 <a id="review-questions"></a>
  
-## IX. Review notes and video on your own - JavaScript/DOM Review & Demo
+## IX. JavaScript/DOM Review & Demo
 
 - 1. What is JavaScript?
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -238,8 +239,13 @@ We aren't always going to have video links, but here they are in case we run out
 
 ## XI. Today's Activities
 
-1) (This lecture is recorded) 
-2) Questions on [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)?
+1) Review section I. - VII. above that discuss this course
+  - questions?
+  
+2) Grab the starter code in section VIII.
+
+3) Section IX. - We will begin to work through the first part of this demo and review what is coverd 
+
 3) Review some of the Part IX. notes above and create "Greeter" demo
 
 **greeter-start.html**
@@ -260,8 +266,6 @@ We aren't always going to have video links, but here they are in case we run out
 </body>
 </html>
 ```
-6) Begin [Canvas Paint HW - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-paint-app-1.md) - through Part VI. - see dropbox for due date          
-
 
 
 <hr><hr>
