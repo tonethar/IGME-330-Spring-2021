@@ -63,7 +63,6 @@
 
 ![screenshot](_images/1B-hello-goodbye-2.png)
 
-<hr>
 
 
 
