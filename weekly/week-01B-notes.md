@@ -2,11 +2,13 @@
 
 ## I. Overview
 
-- Welcome to day 2! We are going to continue our review of basic JavaScript and the DOM, and cover the material in the third and 4th videos from last time:
+- Welcome to day 2! 
+- First we'll see if there are any questions about the Technobabble HW, and take a peak at a few submissions
+- Then we will continue our review of basic JavaScript and the DOM, and cover the material in the third and 4th videos from last time:
   - see the [Week 1A - JS review notes](week-01A-notes.md#js-review-notes)
   - and [Week 1A - JS review videos](week-01A-notes.md#js-review-video-links)
   - if we don't get to cover all of this material during the class time, you are expected to get this material by watching the video links at the bottom of this page
-  - Here is the start code for the demo (and Homework)
+  - here is the start code for today's demo (and Homework)
 
 **say-hello-2.html**
 ```html
