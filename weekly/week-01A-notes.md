@@ -157,7 +157,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 <hr>
 
-<a id="review-questions"></a>
+<a id="js-review-notes"></a>
  
 ## IX. JavaScript/DOM Review & Demo
 
@@ -222,7 +222,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 <hr>
 
-<a id="video-links" />
+<a id="js-review-video-links" />
 
 ## X. Videos of JS & DOM Review demo
 
@@ -246,7 +246,7 @@ We aren't always going to have video links, but here they are in case we run out
   
 2) Grab the starter code in section VIII.
 
-3) Section IX. - We will begin to work through the first part of this demo and review what is covered in the 1st and 2nd videos linked above
+3) Section IX. - We will begin to work through the first part of this demo by reviewing what is covered in the 1st and 2nd videos linked above
 
 4) Next time we will finish up the above demo, and you will have a HW assignment that build on this material
 
