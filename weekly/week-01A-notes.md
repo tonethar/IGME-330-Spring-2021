@@ -3,7 +3,7 @@
 Welcome to the course!
 
 ## I. Overview
-Welcome to IGME-330 *Rich Media Web Application Development I*. In this "creative coding" course you will be building on top of IGME-230/235 and constructing compelling interactive experiences that can be viewed over the web. You will also be learning about how to build more robust and modular web software by utilizing more features of JavaScript ES6, with tools like Node.js and npm, and MVVM frameworks such as Vue.js
+Welcome to IGME-330 *Rich Media Web Application Development I*. In this "creative coding" course you will be building on top of IGME-230/235 and constructing compelling interactive experiences that can be viewed over the web. You will also be learning about how to build more robust and modular web software by utilizing more features of JavaScript ES6, and MVVM frameworks such as Vue.js
 
 <hr>
 
@@ -20,6 +20,16 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 ## III. Course Description & Topics
 Official description from SIS: *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications. Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required.*
 
+### "Vanilla JavaScript"
+
+- Much of this course will be taught in "Vanilla JavaScript", which is JavaScript that works without relying on any external frameworks such as jQuery or React:
+  - https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
+- VanillaJS relies on [*web standards*](https://www.w3.org/standards/), which evolve slowly and are generally backward compatiable
+- One nice thing about VanillaJS is that it ages *well*:
+  - in 10 years (or even 5), will a typical React app still run in a web browser?
+    - *Probably NOT*
+  - And if it didn't, how easy would it be to edit the JSX code and republish it?
+    - *More than likely the code would have to be completely re-written*
 <hr>
 
 ## IV. Pedagogy (how this course is taught!)
