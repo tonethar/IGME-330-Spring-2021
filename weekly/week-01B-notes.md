@@ -46,6 +46,7 @@
   - When the user clicks the "Goodbye" button, it will function nearly identical to the "Hello" button, except it will display "Goodbye `<firstName>` `<lastName>`"
   - Hint:
     - Because that you now have 2 buttons, you will need to give them unique `id` values
+    - Don't forget that id selectors start with a `#`
   - See screenshot below
 
 <hr>
