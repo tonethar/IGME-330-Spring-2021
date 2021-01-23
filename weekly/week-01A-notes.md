@@ -46,7 +46,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   - [Microsoft Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight) - similar to Flex
 - These platforms were popular for a time, because they were the only cross-platform way to create "media rich" web applications (and games) with sound, animation, and video:
   - recall that YouTube didn't really get going until late 2006! (when Google bought them). Meaning that prior to this time, deploying video to the web was very HARD without using a browser plug-in like Flash
-- So what really hurt the above platforms was that browsers gradually became more capable on their own and were given many "native" capabilities, without having to resort to 3rd party plugins 
+- So what really put the above platforms "out of business" was that browsers gradually became more capable on their own and were given many "native" capabilities, without having to resort to 3rd party plugins 
 - Other issues with these "rich internet" platforms included:
   - developers had to pay for an IDE
   - lower than desired adoption rates by users
