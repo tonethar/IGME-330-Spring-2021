@@ -43,18 +43,26 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   - developers had to pay for an IDE
   - lower than desired adoption rates by users
   - Since 2010, the number of mobile Internet devices has exploded, and most of these don't support the above platforms because the mobile vendors considered them slow, insecure, buggy, and memory hogs
-  
-  
+- Premature obsolesence hurts!
+  - The Flash plugin no longer runs on any current browers, and is no longer supported by Adobe. So if you authored a Flash app back in 2011 (or even 2014, as NMID was still teaching it then) and wanted to update it, how would you do so?
+    - Answer: You can't! You would have to first find an old Flash IDE to access the code and media files, and then you would have to port then entire codebase to another platform
+
+ 
 ### "Vanilla JavaScript"
-- Much of this course will be taught in "Vanilla JavaScript", which is JavaScript that works without relying on any external frameworks such as jQuery or React:
+- One way to delay app obsolesence is to write code on a relatively stable application platform
+- Much of this course will be taught in browser "Vanilla JavaScript", which is JavaScript that works without relying on any external frameworks such as jQuery or React:
   - https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
-- VanillaJS relies on open [*web standards*](https://www.w3.org/standards/), which evolve slowly and are generally backward compatiable
-- One nice thing about VanillaJS is that it ages *well*, much better than the "rich internet" platforms listed above. A JavaScript/DOM "vanilla" web app written in the "aughties" (2000-2009) would still work today, or require only minimal modification to run
-  - How will web frameworks like jQuery, and especially React, "age"? Probably not well!:
-    - in 10 years (or even 5), will a typical React app still run in a web browser?
-      - *Probably NOT*
-    - And if it didn't, how easy would it be to edit the JSX code and republish it?
-      - *More than likely the code would have to be completely re-written, and then re-compiled*
+- VanillaJS relies on open [*web standards*](https://www.w3.org/standards/):
+  - these tend to evolve predicatably, and are generally backward compatiable
+  - no IDE is required!
+  - no one company owns the platform!
+- VanillaJS seems to "age well", much better than the "rich internet" platforms listed above
+  - for example, a JavaScript/DOM "vanilla" web app written in the "aughties" (2000-2009) would still work today, or require only minimal modification to run
+- How will web frameworks like jQuery, and especially React, "age"? Probably not well!
+  - in 10 years (or even 5), will a typical React app still run in a web browser?
+    - *Probably NOT*
+  - And if it didn't, how easy would it be to edit the JSX code (proprietary web components) and republish it?
+    - *More than likely the code would have to be completely re-written, and then re-compiled*
       
 ### "Web Frameworks"
 - Don't get us wrong here, we LOVE making apps in Web Frameworks like Vue.js (which we will do later on in this course) and ReactJS (which is covered in the next course IGME-430:
