@@ -39,7 +39,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 ### How "Web Apps" used to be made
 - Since 1995 there have been many ways to build web enabled applications, but this was mostly with proprietary platforms & tools such as:
-  - [Java Applets](https://en.wikipedia.org/wiki/Java_applet) - This was a really "hot" teachnology in the early days of the web, but the Java runtime was huge and really slow to download in the [dial up](https://en.wikipedia.org/wiki/Dial-up_Internet_access) era
+  - [Java Applets](https://en.wikipedia.org/wiki/Java_applet) - This was a really "hot" technology in the early days of the web, but the Java runtime was huge and really slow to download in the [dial up](https://en.wikipedia.org/wiki/Dial-up_Internet_access) era
   - [Macromedia Director](https://en.wikipedia.org/wiki/Adobe_Director) - bitmapped animations - originally a CD ROM publishing tool, updated for the web
   - [Macromedia (later Adobe) Flash](https://en.wikipedia.org/wiki/Adobe_Flash_Player) - animated vector graphics - was more or less killed when Steve Jobs refused to allow it on the iPhone
   - [Adobe Flex](https://en.wikipedia.org/wiki/Apache_Flex) - used the Flash player, but with standard UI components that made construction of conventional web applications easier
