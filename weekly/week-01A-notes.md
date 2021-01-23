@@ -24,6 +24,9 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 ### Course Topics
 
+- Review of JavaScript/DOM (Document Object Model)
+- 
+
 <hr>
 
 
