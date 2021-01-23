@@ -55,6 +55,8 @@
 
 ![screenshot](_images/1B-hello-goodbye-1.png)
 
+<hr>
+
 - Click the "Goodbye" button:
 
 ![screenshot](_images/1B-hello-goodbye-2.png)
