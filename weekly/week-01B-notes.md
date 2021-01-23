@@ -44,6 +44,8 @@
   - If no value is entered for the "Last Name", the default value will be "Bond"
   - Add a second button with the text of "Goodbye"
   - When the user clicks the "Goodbye" button, it will function nearly identical to the "Hello" button, except it will display "Goodbye `<firstName>` `<lastName>`"
+  - Hint:
+    - Because that you now have 2 buttons, you will need to give them unique `id` values
   - See screenshot below
 
 <hr>
