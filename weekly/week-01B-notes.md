@@ -45,7 +45,11 @@
   - When the user clicks the "Goodbye" button, it will function nearly identical to the "Hello" button, except it will display "Goodbye `<firstName>` `<lastName>`"
   - See screenshot below
 
+<hr>
+
 ![screenshot](_images/1B-hello-goodbye.png)
+
+<hr>
 
 - see myCourses dropbox for due date
 
