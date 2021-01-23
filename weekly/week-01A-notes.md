@@ -21,11 +21,12 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 Official description from SIS: *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications. Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required.*
 
 ### "Vanilla JavaScript"
-
+- Since 1995 there have been many ways to build web enabled applications, but this was mostly with propietary tools
 - Much of this course will be taught in "Vanilla JavaScript", which is JavaScript that works without relying on any external frameworks such as jQuery or React:
   - https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
-- VanillaJS relies on [*web standards*](https://www.w3.org/standards/), which evolve slowly and are generally backward compatiable
-- One nice thing about VanillaJS is that it ages *well*:
+- VanillaJS relies on open [*web standards*](https://www.w3.org/standards/), which evolve slowly and are generally backward compatiable
+- One nice thing about VanillaJS is that it ages *well*, frameworks? Not so much!:
+  - A JavaScript/DOM "vanilla" web app written in the "aughties" (2000-2009) would still work today, or require only minimal modification to run
   - in 10 years (or even 5), will a typical React app still run in a web browser?
     - *Probably NOT*
   - And if it didn't, how easy would it be to edit the JSX code and republish it?
