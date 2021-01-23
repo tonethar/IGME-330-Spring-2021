@@ -22,6 +22,10 @@ Official description from SIS:
 
 *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications. Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required.*
 
+
+
+## IV. History of "Rich Media App Development" on the web
+
 ### How "Web Apps" used to be made
 - Since 1995 there have been many ways to build web enabled applications, but this was mostly with proprietary platforms & tools such as:
   - [Java Applets](https://en.wikipedia.org/wiki/Java_applet) - This was a really "hot" teachnology in the early days of the web, but the Java runtime was huge and really slow to download in the [dial up](https://en.wikipedia.org/wiki/Dial-up_Internet_access) era
@@ -57,7 +61,7 @@ Official description from SIS:
 
 <hr>
 
-## IV. Pedagogy (how this course is taught!)
+## V. Pedagogy (how this course is taught!)
 - ***You need to review the week's lecture notes *prior* to attending class for that week***
 - A typical classroom day will be:
     - a review of the days topics (see the Github lecture notes)
@@ -75,7 +79,7 @@ Official description from SIS:
 
 <hr>
 
-## V. Communication Details
+## VI. Communication Details
 
 - What name do you call me?
   - "Professor", "Professor Jefferson", or "Tony" all work
@@ -99,7 +103,7 @@ Official description from SIS:
 
 <hr>
 
-## VI. Required Reading & Assignments
+## VII. Required Reading & Assignments
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
 * [Project 1 *Interactive Sandbox*](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course
@@ -110,7 +114,7 @@ Official description from SIS:
 
 <hr>
 
-## VII. Starter Code
+## VIII. Starter Code
 
 **starter.html**
 
@@ -133,7 +137,7 @@ Official description from SIS:
 
 <a id="review-questions"></a>
  
-## VIII. Review notes and video on your own - JavaScript/DOM Review & Demo
+## IX. Review notes and video on your own - JavaScript/DOM Review & Demo
 
 - 1. What is JavaScript?
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -196,7 +200,7 @@ Official description from SIS:
 
 <hr>
 
-## IX. Videos of JS & DOM Review demo
+## X. Videos of JS & DOM Review demo
 
 We aren't always going to have video links, but here they are in case we run out of time today:
 
@@ -211,13 +215,11 @@ We aren't always going to have video links, but here they are in case we run out
 
 <hr>
 
-## X. Today's Activities
+## XI. Today's Activities
 
 1) (This lecture is recorded) 
-2) Questions from last time?
-3) Questions on [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)?
-4) Quick Zoom Poll
-5) Review some of the Part VII. notes above and create "Greeter" demo
+2) Questions on [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)?
+3) Review some of the Part IX. notes above and create "Greeter" demo
 
 **greeter-start.html**
 
