@@ -51,7 +51,13 @@
 
 <hr>
 
-![screenshot](_images/1B-hello-goodbye.png)
+![screenshot](_images/1B-hello-goodbye-1.png)
+
+<hr>
+
+<hr>
+
+![screenshot](_images/1B-hello-goodbye-2.png)
 
 <hr>
 
