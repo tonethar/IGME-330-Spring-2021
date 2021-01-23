@@ -44,9 +44,11 @@
   - If no value is entered for the "Last Name", the default value will be "Bond"
   - Add a second button with the text of "Goodbye"
   - When the user clicks the "Goodbye" button, it will function nearly identical to the "Hello" button, except it will display "Goodbye `<firstName>` `<lastName>`"
-  - Hint:
+  - see myCourses dropbox for due date
+  - Hints:
     - Because that you now have 2 buttons, you will need to give them unique `id` values
     - Don't forget that id selectors start with a `#`
+    - Can you get this done with just *one* function that updates the `#output`, instead of *two*?
   - See screenshot below
 
 <hr>
@@ -63,7 +65,7 @@
 
 <hr>
 
-- see myCourses dropbox for due date
+
 
 
 <hr><hr>
