@@ -13,12 +13,12 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 - Basic JavaScript and the Web Browser DOM (Document Object Model)
 
 ### \*\*Important - Before class begins\*\*
-- Review the topics in these ten [IGME-230/235 Web App tutorials](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md#section4) - most of this material should have been covered in your IGME-230 section. If you need a refresher on any of these topics, just go through the applicable tutorials at the link above. If you have any questions at all, or would like to have an assignment checked for accuracy, go ahead and reach out to me via email.
+- Review the topics in these ten [IGME-230/235 Web App tutorials](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md#section4) - most of this material should have been covered in your IGME-230/235 section. If you need a refresher on any of these topics, just go through the applicable tutorials at the link above. If you have any questions at all, or would like to have an assignment checked for accuracy, go ahead and reach out to me via email.
 
 <hr>
 
 ## III. Course Description & Topics
-Official description from SIS: *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs).  This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications.  Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation.*
+Official description from SIS: *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications. Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required.*
 
 <hr>
 
@@ -29,8 +29,8 @@ Official description from SIS: *This course provides students the opportunity to
     - a live demo by the professor that reinforces the day's topics
     - 2-way interaction (you could get called on at anytime)
 - The assignments given in this class break into two categories:
-    - homework assignments or in-class exercises that focus narrowly on one or more concepts
-    - three projects with more flexible requirements that allow you to exercise considerable freedom and creativity in demonstrating key skills and understanding
+    - homework assignments, in-class exercises, and "Check offs" (which are small HWs/ICEs) that focus narrowly on one or more concepts
+    - two projects with more flexible requirements that allow you to exercise considerable freedom and creativity in demonstrating key skills and understanding
 - A large part of this course is taught similar to a typical math course: there will be several small homework assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates.
 - Keep an eye on the dropboxes in myCourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
     - if something comes up and you need an extension for any reason, you need to get in touch with us at least 24-hours *before* the assignment is due
@@ -58,11 +58,9 @@ Official description from SIS: *This course provides students the opportunity to
      - be on time
      - keep web cam on, and microphone muted
      - you could get called on at anytime, so be ready to respond
-     
-***WEEK-0 ASSIGNMENT***
+    
 
-- *Technobabble* is due before we meet again - see myCourses dropbox
-  - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
+
 
 <hr>
 
@@ -71,7 +69,9 @@ Official description from SIS: *This course provides students the opportunity to
 * [schedule.md](../schedule.md)
 * [Project 1 *Interactive Sandbox*](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course
 * Keep an eye on the *Content* section of mycourses.rit.edu for "done" in-class demo files
-* Keep an eye on the mycourses.rit.edu dropboxes to see what is assigned and when it is due
+* Keep an eye on the mycourses.rit.edu dropboxes to see what is assigned and when it is due\
+* *Technobabble* is due before we meet again - see myCourses dropbox
+  - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
 
 <hr>
 
