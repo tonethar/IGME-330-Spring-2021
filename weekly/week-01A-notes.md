@@ -222,6 +222,8 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 <hr>
 
+<a id="video-links" />
+
 ## X. Videos of JS & DOM Review demo
 
 We aren't always going to have video links, but here they are in case we run out of time today:
@@ -244,28 +246,9 @@ We aren't always going to have video links, but here they are in case we run out
   
 2) Grab the starter code in section VIII.
 
-3) Section IX. - We will begin to work through the first part of this demo and review what is coverd 
+3) Section IX. - We will begin to work through the first part of this demo and review what is covered in the 1st and 2nd videos linked above
 
-3) Review some of the Part IX. notes above and create "Greeter" demo
-
-**greeter-start.html**
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Greeter</title>
-    <style></style>
-    <script></script>
-  </head>
-<body>
-  <button>Click Me!</button>
-  <input id="firstName" placeholder="Type in your name">
-  <p id="output">???</p>
-</body>
-</html>
-```
+4) Next time we will finish up the above demo, and you will have a HW assignment that build on this material
 
 
 <hr><hr>
