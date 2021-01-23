@@ -25,7 +25,12 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 ### Course Topics
 
 - Review of JavaScript/DOM (Document Object Model)
-- 
+- [`<canvas>` 2D drawing API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+- [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+- Text processing and the [RiTa.js](https://rednoise.org/rita/) computational text framework
+- [Vue.js](https://vuejs.org/)  JavaScript MVVM framework
+- ES6 JavaScript features such as ES6 modules
+
 
 <hr>
 
