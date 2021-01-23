@@ -18,10 +18,13 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 <hr>
 
 ## III. Course Description & Topics
-Official description from SIS: 
 
+### Official description from SIS
 *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications. Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required.*
 
+### Course Topics
+
+<hr>
 
 
 ## IV. History of "Rich Media App Development" on the web
@@ -98,9 +101,6 @@ Official description from SIS:
      - keep web cam on, and microphone muted
      - you could get called on at anytime, so be ready to respond
     
-
-
-
 <hr>
 
 ## VII. Required Reading & Assignments
