@@ -127,13 +127,13 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 * [schedule.md](../schedule.md)
 * [Project 1 *Interactive Sandbox*](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course
 * Keep an eye on the *Content* section of mycourses.rit.edu for "done" in-class demo files
-* Keep an eye on the mycourses.rit.edu dropboxes to see what is assigned and when it is due\
-* *Technobabble* is due before we meet again - see myCourses dropbox
+* Keep an eye on the mycourses.rit.edu dropboxes to see what is assigned and when it is due
+* *Technobabble* is due before we meet again - see myCourses dropbox for due date:
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
 
 <hr>
 
-## VIII. Starter Code
+## VIII. Demo Starter Code
 
 **starter.html**
 
