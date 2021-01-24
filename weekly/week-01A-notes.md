@@ -45,6 +45,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   - [Macromedia (later Adobe) Flash](https://en.wikipedia.org/wiki/Adobe_Flash_Player) - animated vector graphics - was more or less killed when Steve Jobs refused to allow it on the iPhone
   - [Adobe Flex](https://en.wikipedia.org/wiki/Apache_Flex) - used the Flash player, but with standard UI components that made construction of conventional web applications easier
   - [Microsoft Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight) - similar to Flex
+  - (and just prior to the web, and in its early days, CD-ROM technology was the hot way to deliver interactive content using applications such as [Macromind VideoWorks](https://en.wikipedia.org/wiki/Adobe_Director), [Apple HyperCard](https://en.wikipedia.org/wiki/HyperCard), [Silicon Beach SuperCard](https://en.wikipedia.org/wiki/SuperCard) and [Macromedia Authorware](https://en.wikipedia.org/wiki/Adobe_Authorware))
 - These platforms were popular for a time, because they were the only cross-platform way to create "media rich" web applications (and games) with sound, animation, and video:
   - recall that YouTube didn't really get going until late 2006! (when Google bought them). Meaning that prior to this time, deploying video to the web was very HARD without using a browser plug-in like Flash
 - So what really put the above platforms "out of business" was that browsers gradually became more capable on their own and were given many "native" capabilities, which reduced the need to resort to 3rd party plugins 
