@@ -245,9 +245,9 @@ We aren't always going to have video links, but here they are in case we run out
   
 2) Grab the starter code in section VIII.
 
-3) Section IX. - ee will begin to work through the first part of this demo by reviewing what is covered in the 1st and 2nd videos linked above
+3) Section IX. - we will begin to work through the first part of this demo by reviewing what is covered in the 1st and 2nd videos linked above
 
-4) Next time we will finish up the above demo, and you will have a HW assignment that build on this material
+4) Next time we will finish up the above demo, and you will have a HW assignment that builds on this material
 
 
 <hr><hr>
