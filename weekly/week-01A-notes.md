@@ -26,6 +26,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 - Review of JavaScript & Browser DOM (Document Object Model)
 - [`<canvas>` 2D drawing API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  - Some examples of what canvas can do are here (links near top of page) - [Canvas 2D Essential Skills #1 - Intro to the Drawing Context](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-canvas-intro-to-drawing-context.md)
 - [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 - Text processing and the [RiTa.js](https://rednoise.org/rita/) computational text framework
 - [Vue.js](https://vuejs.org/)  JavaScript MVVM framework
