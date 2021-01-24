@@ -3,7 +3,7 @@
 ## I. Overview
 
 - Welcome to day 2! 
-- First we'll see if there are any questions about the Technobabble HW, and take a peak at a few submissions
+- First we'll see if there are any questions about the Technobabble HW, and take a peek at a few submissions
 - Then we will continue our review of basic JavaScript and the DOM, and cover the material in the third and 4th videos from last time:
   - see the [Week 1A - JS review notes](week-01A-notes.md#js-review-notes)
   - and [Week 1A - JS review videos](week-01A-notes.md#js-review-video-links)
