@@ -18,7 +18,7 @@
 - Section 01 - TR 3:30PM-4:45PM
 - Section 02 - TR 9:30AM-10:45AM
 - Professor: Tony Jefferson  
-- Email: tony@mail.rit.edu
+- Email: tony@mail.rit.edu (email is the quickest way to contact)
 - Office hours:
   - TBA
 
