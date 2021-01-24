@@ -63,7 +63,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 - Much of this course will be taught in browser "Vanilla JavaScript", which is JavaScript that works without relying on any external frameworks such as jQuery or React:
   - https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
 - VanillaJS relies on open [*web standards*](https://www.w3.org/standards/):
-  - these tend to evolve predicatably, and are generally backward compatiable
+  - these tend to evolve predictably, and respect backward compatibility
   - no IDE is required!
   - no one company owns the platform!
 - VanillaJS seems to "age well", much better than the "rich internet" platforms listed above
@@ -77,9 +77,9 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   - And if it didn't, how easy would it be to edit the JSX code (JSX=proprietary web components) and republish it?
     - *More than likely the code would have to be completely re-written, in "React 10"?,  and then re-compiled*
 - Don't get us wrong here:
-  - we LOVE making apps in Web Frameworks like Vue.js (which we will do later on in this course) and ReactJS (which is covered in the next course IGME-430)
+  - we LOVE making apps in Web Frameworks like Vue.js (which we will cover later on in this course) and ReactJS (which is covered in the next course IGME-430)
   - and in large swaths of the industry, frameworks like Angular and React are what is used to make web apps
-- But, because web frameworks come and go, while web standards are much more stable, the best way to learn JS is to first learn "Vanilla JS":
+- But, because web frameworks come and go, and web standards are much more stable, the best way to learn JS is to first learn "Vanilla JS":
   - then, no matter what hot new web framework comes along, you'll be able to easily learn it because you understand the foundational web technologies that this hot new web framework is built on top of
 
 <hr>
