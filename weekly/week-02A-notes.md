@@ -9,19 +9,26 @@ Today we will:
 - Learn a little more about the Canvas API
 - Refactor and add features to our screen savers
 
+
+<!--
 ## II. Required Reading & Assignments (*see myCourses for due dates*)
-<!-- - Shape Viewer HW -> [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md) -->
-- This is a potential [Project 1 - *Interactive Sandbox*](../projects/project-1.md) "starter" --> [HW-Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
-- Study Guide-2 --> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
+ Shape Viewer HW [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md)
+- This is a potential [Project 1 - *Interactive Sandbox*](../projects/project-1.md) "starter" [HW-Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
+- Study Guide-2 [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
+-->
 
-
+<!--
 ## III. Extra Credit Opportunity (*see myCourses for due dates*)
-- This is a potential [Project 1 - *Interactive Sandbox*](../projects/project-1.md) "starter" --> [HW-Random Walker](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
+- This is a potential [Project 1 - *Interactive Sandbox*](../projects/project-1.md) "starter"  [HW-Random Walker](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
+-->
 
+<!--
 ## IV. Presentations
 - [Randomness and Aesthetics](https://github.com/tonethar/IGME-330-Master/blob/master/notes/randomness-1.md)
 - [Canvas-2 More Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-2.md) - drawing rings, polygons, `ctx.arcTo()`, `ctx.lineJoin`, line dashes
+-->
 
+<!--
 ## V. HW Assignment - *Screen Saver with Controls*
 We will keep working on the Screen Saver:
 - add a checkbox to control whether or not rectangles appear
@@ -30,7 +37,9 @@ We will keep working on the Screen Saver:
 - write code that "spray paints" rectangles onto the canvas when we click on it (e.g. like Jackson Pollock, but with digital rectangles instead)
 - see videos "Screen Saver with Controls 1-4" below!
 - see dropbox for due date
+-->
 
+<!--
 **Here's the HTML & CSS for the UI - for your copy/paste pleasure!**
 
 ```html
@@ -62,7 +71,10 @@ section{
   margin:.5em 0 .5em 0;
 }
 ```
+-->
 
+
+<!--
 **This helper code will come in handy when we want to determine where the user clicked on the canvas:**
 ```js
 canvas.onclick = canvasClicked;
@@ -108,6 +120,8 @@ The following two videos continue with the Screen Saver, and show you a techniqu
 <hr><hr>
 
  \* ***If you code the Play button the way we did in the video, there's a problem. Click the Play button repeatedly and you'll see what the issue is. Go ahead and try to fix this - you can do so with just one line of code.***
+ 
+ -->
  
 <hr><hr>
 
