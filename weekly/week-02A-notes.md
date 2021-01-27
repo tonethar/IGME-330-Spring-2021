@@ -3,6 +3,9 @@
 ## I. Overview
 
 - Questions?
+- Introductions:
+  - I will call on you one at a time
+  - Introduce yourself, and tell us your major/minor and something about yourself (last movie you watched, restaurant you went to, the farthest you've ever been from home, your dream vacation, or ???)
 - JavaScript Poll
 - JS/DOM Review:
   - Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
