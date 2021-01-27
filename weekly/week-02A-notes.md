@@ -2,7 +2,12 @@
 
 ## I. Overview
 
-
+- Questions?
+- JS/DOM Review:
+  - Review Technobabble
+  - Review Greeter - look at "do it in 1 function" answers
+- Look at Screensaver - Core Skills #3
+- In-class exercise
 
 
 
