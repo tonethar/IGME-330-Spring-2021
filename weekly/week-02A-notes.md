@@ -6,7 +6,8 @@
 - JS/DOM Review:
   - Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
   - Review [HW-1B-Greeter](https://github.com/tonethar/IGME-330-Spring-2021/blob/main/weekly/week-01B-notes.md) - look at "do it in 1 function" answers
-- Look at Screensaver - [Core Skills #3](https://github.com/tonethar/IGME-330-Master/blob/master/notes/3-begin-making-screensaver.md)
+- Canvas Review:
+  - Look at Screensaver - [Core Skills #3](https://github.com/tonethar/IGME-330-Master/blob/master/notes/3-begin-making-screensaver.md)
 - In-class exercise
 
 
