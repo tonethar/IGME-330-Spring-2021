@@ -4,7 +4,7 @@
 
 - Questions?
 - JS/DOM Review:
-  - Review Technobabble
+  - Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
   - Review Greeter - look at "do it in 1 function" answers
 - Look at Screensaver - Core Skills #3
 - In-class exercise
