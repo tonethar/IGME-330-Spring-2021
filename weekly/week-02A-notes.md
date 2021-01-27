@@ -2,6 +2,7 @@
 
 ## I. Overview
 
+- Welcome back!
 - Questions?
 - Introductions:
   - I will call on you one at a time
