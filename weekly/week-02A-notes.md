@@ -3,6 +3,7 @@
 ## I. Overview
 
 - Questions?
+- JavaScript Poll
 - JS/DOM Review:
   - Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
   - Review [HW-1B-Greeter](https://github.com/tonethar/IGME-330-Spring-2021/blob/main/weekly/week-01B-notes.md) - look at "do it in 1 function" answers
