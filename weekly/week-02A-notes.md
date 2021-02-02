@@ -14,7 +14,13 @@
       - a book you read, movie you saw, video game you beat OR
       - a co-op you were on OR ... (SFW!)
 - JS/DOM Review:
-  - Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
+  - Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md):
+    - Why use `const` instead of `let`?
+    - Is `words1` mutable?
+      - Let's test it!
+    - How can you make an array or object *immutable*?
+    -  
+    
   - Review [HW-1B-Greeter](https://github.com/tonethar/IGME-330-Spring-2021/blob/main/weekly/week-01B-notes.md) - look at "do it in 1 function" answers
 - Canvas Review:
   - Look at Screensaver - [Core Skills #3](https://github.com/tonethar/IGME-330-Master/blob/master/notes/3-begin-making-screensaver.md)
