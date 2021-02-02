@@ -110,15 +110,11 @@
 </head>
 <body>
 	<canvas width="500" height="300">
-		Get a real browser!
+	Get a real browser!
 	</canvas>
 	
 	<section id="controls">
-		<button id="red">Fill Red</button>
-		<button id="green">Fill Green</button>
-		<button id="blue">Fill Blue</button>
-		<button id="triangle">Triangle</button>
-		<button id="circle">Circle</button>
+	  <button id="red">Fill Red</button>
 	</section>
 	
 	
