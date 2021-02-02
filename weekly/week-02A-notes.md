@@ -140,7 +140,11 @@
 </html>
 ```
 
+<hr>
 
+## III. Screenshot of Done Version
+
+![screenshot](_images/2A-shapeviewer-done.png)
 
 
 <!--
