@@ -3,10 +3,16 @@
 ## I. Overview
 
 - Welcome back!
-- Questions?
-- Introductions:
-  - I will call on you one at a time
-  - Introduce yourself, and tell us your major/minor and something about yourself (last movie you watched, restaurant you went to, the farthest you've ever been from home, your dream vacation, or ???)
+  - Questions?
+- Attendance/Intro
+  - Taking attendance alphabetically
+  - Be ready:
+    - have your camera on
+    - tell us what you prefer to be called
+    - tell us one thing you’ve done recently (SFW!) such as:
+      - someplace interesting you visited OR
+      - a book you read, movie you saw, video game you beat OR
+      - a co-op you were on OR ... (SFW!)
 - JavaScript Poll
 - JS/DOM Review:
   - Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
