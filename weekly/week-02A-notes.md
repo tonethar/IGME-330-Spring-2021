@@ -30,11 +30,11 @@
     - we'll see this again in *Shape Viewer* below (probably next time)
 - Canvas Concepts (In-class exercise):
   - Shape Viewer:
-    - `ctx.fillStyle` & `ctx.strokeStyle` & `ctx.lineWidth`
-    - rectangles with `ctx.fillRect()` & `ctx.strokeRect()`
-    - rectangles with `ctx.beginPath()`, `ctx.closePath()`, `ctx.rect()`
-    - circles with `ctx.arc()`
-    - polygons with `ctx.moveTo()`, `ctx.lineTo()`, `ctx.fill()`
+    - Drawing State Properties: `ctx.fillStyle` & `ctx.strokeStyle` & `ctx.lineWidth`
+    - Draw rectangles with `ctx.fillRect()` & `ctx.strokeRect()`
+    - Draw rectangles with `ctx.beginPath()`, `ctx.closePath()`, `ctx.rect()`
+    - Draw circles with `ctx.arc()`
+    - Draw polygons with `ctx.moveTo()`, `ctx.lineTo()`, `ctx.fill()`
 
 <hr>
 
