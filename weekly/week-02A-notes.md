@@ -83,7 +83,7 @@
 			console.log('init called');
 			
 			// A - canvas variable points at <canvas> tag
-			var canvas = document.querySelector('canvas');
+			const canvas = document.querySelector('canvas');
 			
 			// B - the ctx variable points at a "2D drawing context"
 			ctx = canvas.getContext('2d');	
