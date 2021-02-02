@@ -19,12 +19,26 @@
     - Is `words1` mutable?
       - Let's test it!
     - How can you make an array or object *immutable*?
-    -  
-    
-  - Review [HW-1B-Greeter](https://github.com/tonethar/IGME-330-Spring-2021/blob/main/weekly/week-01B-notes.md) - look at "do it in 1 function" answers
-- Canvas Review:
-  - Look at Screensaver - [Core Skills #3](https://github.com/tonethar/IGME-330-Master/blob/master/notes/3-begin-making-screensaver.md)
-- In-class exercise
+    - String concatenation v. Template Strings
+    - Event Handler v. Event Listener
+  - Review [HW-1B-Greeter](https://github.com/tonethar/IGME-330-Spring-2021/blob/main/weekly/week-01B-notes.md)
+    - look at "do it in 1 function" answers
+    - we'll see this again in *Shape Viewer* below (probably next time)
+- Canvas Concepts (In-class exercise):
+  - Shape Viewer:
+    - `ctx.fillStyle` & `ctx.strokeStyle` & `ctx.lineWidth`
+    - rectangles with `ctx.fillRect()` & `ctx.strokeRect()`
+    - rectangles with `ctx.beginPath()`, `ctx.closePath()`, `ctx.rect()`
+    - circles with `ctx.arc()`
+    - polygons with `ctx.moveTo()`, `ctx.lineTo()`, `ctx.fill()`
+
+<hr>
+
+## II. Start File
+
+```html
+
+```
 
 
 
