@@ -4,6 +4,10 @@
 
 - Welcome back!
   - Questions?
+- HW:
+  - [Core Skills #4](https://github.com/tonethar/IGME-330-Master/blob/master/notes/4-adding-controls.md) is now up in myCourses, and is due Wednesday night
+  - [Core Skills #5](https://github.com/tonethar/IGME-330-Master/blob/master/notes/5-write-some-code.md) is now up in myCourses, and is due Sunday night
+  - To make room, [Study Guide-1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md) was pushed back from Wednesday night to Monday night
 - Attendance/Intro
   - Taking attendance alphabetically
   - Be ready:
