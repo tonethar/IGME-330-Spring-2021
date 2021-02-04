@@ -3,7 +3,7 @@
 
 - Any questions?
   - You all just finished [Core Skills #4](https://github.com/tonethar/IGME-330-Master/blob/master/notes/4-adding-controls.md) (Controls: Button, checkbox, mouse clicking on the canvas):
-    - aonther new thing was `ctx.save()` and `ctx.restore()` - and you will see how usefull these are next week when we cover cancvas transformations (translate, rotate, scale)
+    - another new thing was `ctx.save()` and `ctx.restore()` - and you will see how usefull these are next week when we cover cancvas transformations (translate, rotate, scale)
   - [Core Skills #5](https://github.com/tonethar/IGME-330-Master/blob/master/notes/5-write-some-code.md):
     - is due soon
     - mostly about adding more controls and helper functions, re-factoring the code, D.R.Y.
