@@ -3,7 +3,7 @@
 
 - Any questions?
 - Let's look at some more canvas --> [canvas-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-2.md)
-- Finish up Shape Viewer
+- Finish up *Shape Viewer*
 
 
 <!--
