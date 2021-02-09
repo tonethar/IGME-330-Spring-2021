@@ -1,4 +1,4 @@
-# Week 3A - IIFEs and ES5 Style Libraries 
+# Week 3A - Canvas Transformations
 
 
 ## I. Overview
