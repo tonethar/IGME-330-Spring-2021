@@ -19,7 +19,7 @@
     - 3 "optional" extra credit assignments - some of them are good Project 1 "starters":
       - they are all bonus "extra credit" items
       - the dropboxes for these close Monday night
-      - ***you MUST do at least one of them (but you can do all three if you want, for <u>super power-up achievements</ul>!)***
+      - ***you MUST do at least one of them (but you can do all three if you want, for <u>super power-up credits & achievements</u>!)***
       - here they are (for your edification):
         - [Optional Extra Credit - Random Walker](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
         - [Optional Extra Credit - Conway's Life](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-life.md)
