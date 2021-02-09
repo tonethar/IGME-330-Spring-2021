@@ -8,10 +8,16 @@
     - look at "Smiley" submissions
     - concepts covered - this was mostly a review of what we have been doing in class (which is a good thing!)
 
+<hr>
+
 2) Talk about canvas transformations - here are the notes --> [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)
   
+     - we will be doing a demo of translate/rotate/scale in class
+     - the demo "start" code is in the link above, and up in myCourses there is a "clip" file with some code you can copy/paste 
      - there is an accompanying HW assignment - look in myCourses dropbox for "3A inclass Checkoff" - it is due tonight
-  
+
+<hr>
+
 3) Other Homework
 
     - [Animated Sine Wave HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md) is due Wednesday night
