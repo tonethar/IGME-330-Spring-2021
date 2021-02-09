@@ -20,7 +20,7 @@
 
 3) Other Homework
 
-    - [Animated Sine Wave HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md) is due Wednesday night
+    - [Animated Sine Wave HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md) is due Wednesday night - it doesn't take too long
     - [Canvas SG-2](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md) is assigned - see myCourses dropbox
     - 3 "optional" extra credit assignments - some of them are good Project 1 "starters":
       - they are all bonus "extra credit" items
