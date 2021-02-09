@@ -10,7 +10,7 @@
 
 2) Talk about canvas transformations - here are the notes --> [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)
   
-     - there is an accompanying HW assignment - look in myCourses dropbox for "3A inclass Checkoff" - it is due Wednesday might
+     - there is an accompanying HW assignment - look in myCourses dropbox for "3A inclass Checkoff" - it is due tonight
   
 3) Other Homework
 
