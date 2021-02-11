@@ -2,7 +2,7 @@
 
 ## I. Review
 
-1. Let's practice transformations! Grab the start files for [Demo B](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md#demo-B) - **screen-saver-2-start.html** - the one we didn't do - from last time
+1. Let's practice transformations! Grab the start files for [Demo B](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md#demo-B) - **screen-saver-2-start.html** - the one from last time that we didn't do
 
 <hr>
 
