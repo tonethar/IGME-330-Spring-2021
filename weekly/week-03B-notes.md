@@ -1,8 +1,14 @@
-# Week 3B - Canvas Gradients & Algorithmic Botany
+# Week 3B - More about Canvas
 
+## I. Review
 
-## Overview
+1. Let's practice transformations! Grab the start files for the second demo from last time
 
+<hr>
+
+## II. More Canvas
+
+1. [Canvas V - Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
 
 2. [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md) - Here we are going to explore common periodic functions by building both a static sine wave, and an animated one, and maybe give you some ideas for Project 1. Be sure to follow along!
 
