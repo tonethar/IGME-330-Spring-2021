@@ -16,6 +16,8 @@
      - the demo "start" code is in the link above, and up in myCourses there is a "clip" file with some code you can copy/paste 
      - there is an accompanying HW assignment - look in myCourses dropbox for "3A inclass Checkoff" - it is due tonight
 
+<a id="hw" />
+
 <hr>
 
 3) Other Homework
