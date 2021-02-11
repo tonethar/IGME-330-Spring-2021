@@ -2,7 +2,7 @@
 
 ## I. Review
 
-1. Let's practice transformations! Grab the start files for [Demo B](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md#demo-B) - **screen-saver-2-start.html** - the one from last time that we didn't do
+1. Let's review transformations! Grab the start files for [Demo B](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md#demo-B) - **screen-saver-2-start.html** - the one from last time that we didn't do
 
     - you can follow along with the demo, or not, either way we'll post the done versions to myCourses
     - below is some helpful code that demonstrates [`window.setInterval()`](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
