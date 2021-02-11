@@ -13,7 +13,7 @@
 
 
 
-## III. Some conputational beauty
+## III. Some computational beauty
 
 1. [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md) - Here we are going to explore common periodic functions by building both a static sine wave, and an animated one, and maybe give you some ideas for Project 1. Be sure to follow along!
 
