@@ -10,8 +10,7 @@
 
 1. [Canvas V - Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
 
-
-
+<hr>
 
 ## III. Some computational beauty
 
