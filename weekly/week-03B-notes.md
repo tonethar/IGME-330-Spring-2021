@@ -13,6 +13,9 @@ setInterval(fillBGWithRandomTint,5000); // call `fillBGWithRandomTint()` every 5
 ```
 
 2. Don't forget about the upcoming HW assignments - see myCourses dropbox - they are listed here --> [week-03A-notes.md#hw](week-03A-notes.md#hw)
+
+    - Reminder: you **MUST** complete at least **ONE** of the 3 extra credit assignments
+
 <hr>
 
 ## II. More Canvas
