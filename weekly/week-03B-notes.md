@@ -1,4 +1,4 @@
-# Week 3B - More about Canvas
+# Week 3B - The class meeting after 3A
 
 ## I. Review
 
