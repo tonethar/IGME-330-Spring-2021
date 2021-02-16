@@ -4,13 +4,16 @@
 
 - Look at some Phyllotaxis submissions
 - Look over the [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md) notes
+- Building an app with sprites --> [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
 
 ## II. Announcements
-- Next time we will talk about Project 1 - Interactive Sandbox:
-  - Proposal - due end of week 5
-  - Prototype/Critique Groups - end of week 6
-  - Final version - due end of week 7
-- Next Tuesday 2/23 is recharge day #1 - no class meeting on that day, and nothing will be due
+- Next time:
+  - we will talk about Project 1 - Interactive Sandbox:
+    - Proposal - due end of week 5
+    - Prototype/Critique Groups - end of week 6
+    - Final version - due end of week 7
+  - we will cover ES6 Modules (a Project 1 requirement)
+- Next Tuesday 2/23 is *Recharge Day #1* - no class meeting on that day, and nothing will be due
 
 <!--
 - Any questions on [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)?
