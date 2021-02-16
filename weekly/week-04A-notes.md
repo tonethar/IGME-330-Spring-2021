@@ -5,6 +5,9 @@
 - Look at some Phyllotaxis submissions
 - Look over the [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md) notes
 - Building an app with sprites --> [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
+  - the **Canvas-6 "Sprity" HW** (due Thursday night) builds off of this
+  - it could also come in handy for Project 1
+  - so follow along with what are doing, and ask questions!
 
 ## II. Announcements
 - Next time:
