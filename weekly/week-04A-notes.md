@@ -13,7 +13,7 @@
     - Prototype/Critique Groups - end of week 6
     - Final version - due end of week 7
   - we will cover ES6 Modules (a Project 1 requirement)
-- Next Tuesday 2/23 is *Recharge Day #1* - no class meeting on that day, and nothing will be due
+- Next Tuesday 2/23 is ***Recharge Day #1*** - no class meeting on that day, and nothing will be due
 
 <!--
 - Any questions on [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)?
