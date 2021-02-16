@@ -7,6 +7,7 @@
 - Building an app with sprites --> [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
   - the **Canvas-6 "Sprity" HW** (due Thursday night) builds off of this
   - it could also come in handy for Project 1
+  - take your time (outside of class) looking over the code - to help your understanding of what's going on
   - so follow along with what are doing, and ask questions!
 
 ## II. Announcements
