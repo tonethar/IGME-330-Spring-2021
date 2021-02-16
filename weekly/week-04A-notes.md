@@ -10,6 +10,7 @@
   - Proposal - due end of week 5
   - Prototype/Critique Groups - end of week 6
   - Final version - due end of week 7
+- Next Tuesday 2/23 is recharge day #1 - no class meeting on that day, and nothing will be due
 
 <!--
 - Any questions on [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)?
