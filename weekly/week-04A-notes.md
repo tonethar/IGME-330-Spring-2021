@@ -1,4 +1,4 @@
-# Week 4A - 
+# Week 4A - Finish up Foundational Canvas
 
 ## I. Overview
 
