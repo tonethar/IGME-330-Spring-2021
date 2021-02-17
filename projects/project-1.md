@@ -47,7 +47,16 @@ You (optionally, with a partner) will create a compelling interactive media expe
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
   - **Game**
-    - A game is also acceptable as a theme
+    - An interactive game, most likely in the "casual" genre, is also acceptable as a project
+    - We like this definition of a game - *A game is a series of interesting choices* - https://en.wikiquote.org/wiki/Sid_Meier - and you should strive to give your players some:
+      - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
+      - *"Do I try to grab the powerup, or avoid that projectile?"*
+      - *"Should I build a farm, or wait to save up enough to build a factory?"*
+    - Elements found in fun games you will probably have:
+      - Score
+      - Levels
+      - Satisfying user control (see 235 "Key Daemon" demo)
+      - Feedback loops - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
   - *Sprites* - do you need sprites for your Project? - [canvas-6.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) might help!
 - *Impact:*
   - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective
@@ -97,7 +106,7 @@ You (optionally, with a partner) will create a compelling interactive media expe
   - *if a JS file contains a class named something like `FastCar`, you should forget about kebab-casing and instead name the file **FastCar.js***
 
 ### IV-B. Coding standards
-- `"use strict";` at the top of every JS file
+- ES6 Modules, with at least 3 distinct JS files
 - `let` and `const` only. `var` is NOT allowed
 - For DOM traversal, use only `document.querySelector()` and `document.querySelectorAll()`
 -  NOT allowed: `document.getElementById()`, `document.getElementsByTagName()`, `document.getElementByClassName()` etc
@@ -105,15 +114,11 @@ You (optionally, with a partner) will create a compelling interactive media expe
 - Avoid ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants) and instead declare these values as variables or constants
 - "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button>` are NOT allowed
 
-### IV-C. User-created JS library
-- we did this in class - see "Screen Saver With Controls-5" and "Screen Saver With Controls-6" linked at the bottom of [week-03A-notes.md](../weekly/week-03A-notes.md)
-- the file - named `abcLIB.js` - where `abc` are your initials - will:
-  - contain some or all of utility functions that we created in class (such as `getRandomColor()`, `getRandomInt()`, `drawRectangle()` etc ...)
+### IV-C. User-created JS Module
+- Probably named **utils.js**:
+  - contain some or all of utility functions that we created in class (such as `getRandomColor()`, `getRandomInt()`, `drawRectangle()` etc ...) - depending on the needs of your project
   - contain at least 3 (and probably more) useful utility functions that were **created by you**
-  - these functions are contained in an IIFE (as was shown in the videos)
-  - these functions will be exported to a global object named `abcLIB` - where `abc` are your initials (as was shown in the videos)
   - as "utility" functions these must be "pure functions" - see these notes --> [pure-function-notes.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/pure-function-notes.md)
-- [IIFE-review.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/IIFE-review.md) will give you a good idea of how your project is supposed to be architected
   
 ### IV-D. Third-party libraries
 - NOT allowed without advance approval (drawing libraries like *EaselJS* are not allowed, but don't be afraid to ask about others (Physics libraries, etc) - just shoot the prof an email!)
@@ -220,7 +225,7 @@ You (optionally, with a partner) will create a compelling interactive media expe
 |    - *Code standards NOT followed (per incident)* | *(-1 to -5)* |
 |    - *Inline event handlers used* | *(-5)* |
 |    - *Missing index.js* | *(-10)* | |
-|    - *Missing/improperly implemented ES5-style/IIFE Library* | *(-15)* | |
+|    - *Missing/improperly implemented ES6 Modules* | *(-15)* | |
 |    **Overall:** You should aim to score 15/15 in this category ||
 | &nbsp; | &nbsp; |
 | **Total Points Possible** | **100** | |
