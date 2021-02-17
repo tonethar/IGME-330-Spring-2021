@@ -46,17 +46,17 @@ You (optionally, with a partner) will create a compelling interactive media expe
     - https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
-  - **Game**
+  - **Game?**
     - An interactive game, most likely in the "casual" genre, is also acceptable as a project
     - We like this definition of a game - *A game is a series of interesting choices* - https://en.wikiquote.org/wiki/Sid_Meier - and you should strive to give your players some:
       - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
       - *"Do I try to grab the powerup, or avoid that projectile?"*
       - *"Should I build a farm, or wait to save up enough to build a factory?"*
-    - Elements found in fun games you will probably have:
+    - Elements found in fun games you will probably have in yours:
       - Score
       - Levels
-      - Satisfying user control (see 235 "Key Daemon" demo)
-      - Feedback loops - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
+      - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" demo)
+      - Feedback loops that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
   - *Sprites* - do you need sprites for your Project? - [canvas-6.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) might help!
 - *Impact:*
   - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective
