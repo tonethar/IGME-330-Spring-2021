@@ -30,19 +30,20 @@ You (optionally, with a partner) will create a compelling interactive media expe
 - Explore **one** of the *themes* that we covered in class:
   - *Randomness*:
     - Random walks --> see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
-    - Procedural Noise (Open Simplex, Perlin, ...) --> see the [simplex-noise-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/simplex-noise-1.md) page and the examples in myCourses
+    - Procedural Noise (Open Simplex, Perlin, ...) --> see the [simplex-noise-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/simplex-noise-1.md) page and the examples in myCourses  /// Where in myCourses?
   - *Dynamical Systems*:
     - Chaotic Systems --> see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
     - Periodic functions --> see [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
     - Phyllotaxis --> see [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md)
   - *Emergence*:
     - Conway's *Game of Life* --> see [HW - Life](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-life.md)
-    - Reaction Diffusion --> RESOURCE: Coding Train [Coding Challenge #13: Reaction Diffusion Algorithm in p5.js](https://www.youtube.com/watch?v=BV9ny785UNc&t=1431s)
+    - Reaction Diffusion --> RESOURCE: Coding Train [Coding Challenge #13: Reaction Diffusion Algorithm in p5.js](https://www.youtube.com/watch?v=BV9ny785UNc&t=1431s) /// This links to a specific time in video... reason?
   - **OR** ??? (getting permission in advance is required) - here are some ideas:
     - Evolution - YouTube [Primer's Evolution Playlist](https://www.youtube.com/watch?v=oDvzbBRiNlA&list=PLKortajF2dPBWMIS6KF4RLtQiG6KQrTdB)
     - Economic - YouTube [Primer's Economics Playlist](https://www.youtube.com/watch?v=PNtKXWNKGN8&list=PLKortajF2dPCAHWOVNqWY2DSEdoyyj1eV)
     - Generative Art - here's a great blog post to give you some ideas --> https://www.artnome.com/news/2018/8/8/why-love-generative-art
     - Particle systems/falling sand app: https://github.com/pineapplemachine/websand
+      - /// maybe add: https://modernweb.com/creating-particles-in-html5-canvas/ 
     - https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
@@ -58,11 +59,12 @@ You (optionally, with a partner) will create a compelling interactive media expe
       - A difficulty level that's not too hard, nor too easy
       - Score
       - Levels
-      - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" demo)
+      - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" /// aka [Smooth Keyboard Control](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md#vi-demos) demo)
       - *Feedback loops* that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
       - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
 - *Impact:*
-  - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective
+  - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective.
+    - /// or if adding game elements, be sure that the controls allow for the player to control the elements of the game to the greatest reasonable degree, possibly allowing for "options" in the way that the game can be played (for example, adjusting difficulty with a slider).
   - The app must do something that would be meaningful to the user, allowing them to explore the chosen theme in a compelling way
   - The code & functionality must go significantly beyond any of the provided "starter" code above
   - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
