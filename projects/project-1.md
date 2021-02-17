@@ -52,11 +52,13 @@ You (optionally, with a partner) will create a compelling interactive media expe
       - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
       - *"Do I try to grab the powerup, or avoid that projectile?"*
       - *"Should I build a farm, or wait to save up enough to build a factory?"*
-    - Elements found in fun games you will probably have in yours:
+    - Other elements found in fun games you will probably have in yours:
+      - A difficulty lvel that's not too hard, nor too easy
       - Score
       - Levels
       - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" demo)
       - Feedback loops that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
+      - Emergent Gameplay (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
   - *Sprites* - do you need sprites for your Project? - [canvas-6.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) might help!
 - *Impact:*
   - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective
@@ -171,6 +173,9 @@ You (optionally, with a partner) will create a compelling interactive media expe
 <a id="examples"/>
 
 ## VI. Examples
+
+- FYI - These screenshots are from previous semesters when the course had 3 projcts, thus the scope expectations were lower
+- We will look at some other examples in class
 
 ### Spiral Generator (Procedural flower petal generation - *phylotaxis*)
 
