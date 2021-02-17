@@ -48,10 +48,11 @@ You (optionally, with a partner) will create a compelling interactive media expe
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
   - **Game?**
     - An interactive game, most likely in the "casual" genre, is also acceptable as a project
-    - We like this definition of a game - *"A game is a series of interesting choices"* - https://en.wikiquote.org/wiki/Sid_Meier - and you should strive to give your players some - examples:
-      - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
-      - *"Do I try to grab the powerup, or avoid that projectile?"*
-      - *"Should I build a farm, or wait to save up enough to build a factory?"*
+    - We like this definition of a game:
+        - *"A game is a series of interesting choices"* - https://en.wikiquote.org/wiki/Sid_Meier - and you should strive to give your players some - examples:
+          - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
+          - *"Do I try to grab the powerup, or avoid that projectile?"*
+          - *"Should I build a farm, or wait to save up enough to build a factory?"*
     - Other elements found in fun games you will probably have in yours:
       - A difficulty level that's not too hard, nor too easy
       - Score
