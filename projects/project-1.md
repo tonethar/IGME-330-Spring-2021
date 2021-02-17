@@ -53,7 +53,7 @@ You (optionally, with a partner) will create a compelling interactive media expe
       - *"Do I try to grab the powerup, or avoid that projectile?"*
       - *"Should I build a farm, or wait to save up enough to build a factory?"*
     - Other elements found in fun games you will probably have in yours:
-      - A difficulty lvel that's not too hard, nor too easy
+      - A difficulty level that's not too hard, nor too easy
       - Score
       - Levels
       - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" demo)
