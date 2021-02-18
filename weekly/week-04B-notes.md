@@ -1,6 +1,11 @@
 # Week 4B - JavaScript ES6 Module Pattern
 
-## I. Overview
+## I. Review
+
+- Let's look over [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) and see if there are any questions
+
+## II. ES6 Modules
+
 - Are you sick of writing all of your JS code in one file and jamming everything into the global scope? ***You should be!***
 - Today we are going to look at how to implement the *ES6 Module Pattern*:
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
