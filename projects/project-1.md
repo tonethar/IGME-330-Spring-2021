@@ -70,7 +70,7 @@ You (optionally, with a partner) will create a compelling interactive media expe
       - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
 - *Impact:*
   - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective.
-    - /// or if adding game elements, be sure that the controls allow for the player to control the elements of the game to the greatest reasonable degree, possibly allowing for "options" in the way that the game can be played (for example, adjusting difficulty with a slider).
+    - or if adding game elements, be sure that the controls allow for the player to control the elements of the game to the greatest reasonable degree, possibly allowing for "options" in the way that the game can be played (for example, adjusting difficulty with a slider).
   - The app must do something that would be meaningful to the user, allowing them to explore the chosen theme in a compelling way
   - The code & functionality must go significantly beyond any of the provided "starter" code above
   - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
@@ -142,15 +142,6 @@ You (optionally, with a partner) will create a compelling interactive media expe
   - A Git GUI app like [GitHub Desktop](https://desktop.github.com/)
   - Using a command-line client like [GitBash](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/)
 
-### IV-F. File Structure
-
-- Your file structure (locally and on GitHub and on banjo) should look like this:
-
-![screenshot](_images/project-1-file-structure-1.png)
-
-- and:
-
-![screenshot](_images/project-1-file-structure-2.png)
   
 <hr>
 
