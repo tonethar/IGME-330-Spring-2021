@@ -13,6 +13,7 @@
 ## II. Review
 - Let's look over [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) and see if there are any questions:
   - if there are, we'll take 20 minutes to work through as much as we can, ***together!***
+  - and, we will make sure that today's lecture is recorded so that you can refer back to it if necessary
 
 <hr>
 
