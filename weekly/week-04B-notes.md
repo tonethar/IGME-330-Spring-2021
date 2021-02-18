@@ -2,7 +2,7 @@
 
 ## I. Project 1
 
-- [Project 1](projects/project-1.md) has been assigned:
+- [Project 1](https://github.com/tonethar/IGME-330-Spring-2021/blob/main/projects/project-1.md) has been assigned:
   - See discussion thread in myCourses where you will post your project idea and (optional) partner's name
   - See myCourses for deliverable due dates and descriptions
   - We will look at some project examples in class
