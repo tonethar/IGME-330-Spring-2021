@@ -65,7 +65,7 @@ You (optionally, with a partner) will create a compelling interactive media expe
       - A difficulty level that's not too hard, nor too easy
       - Score
       - Levels
-      - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" /// aka [Smooth Keyboard Control](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md#vi-demos) demo)
+      - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" aka [Smooth Keyboard Control](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md#vi-demos) demo)
       - *Feedback loops* that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
       - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
 - *Impact:*
