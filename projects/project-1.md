@@ -41,8 +41,9 @@ You (optionally, with a partner) will create a compelling interactive media expe
     - Evolution - YouTube [Primer's Evolution Playlist](https://www.youtube.com/watch?v=oDvzbBRiNlA&list=PLKortajF2dPBWMIS6KF4RLtQiG6KQrTdB)
     - Economic - YouTube [Primer's Economics Playlist](https://www.youtube.com/watch?v=PNtKXWNKGN8&list=PLKortajF2dPCAHWOVNqWY2DSEdoyyj1eV)
     - Generative Art - here's a great blog post to give you some ideas --> https://www.artnome.com/news/2018/8/8/why-love-generative-art
-    - Particle systems/falling sand app: https://github.com/pineapplemachine/websand
-      - /// maybe add: https://modernweb.com/creating-particles-in-html5-canvas/ 
+    - Particle systems/falling sand app: 
+      - https://github.com/pineapplemachine/websand
+      - https://modernweb.com/creating-particles-in-html5-canvas/  (BUT, you will need to convert this code to ES6 classes)
     - https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
