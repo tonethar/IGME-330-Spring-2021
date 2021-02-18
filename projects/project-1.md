@@ -30,7 +30,6 @@ You (optionally, with a partner) will create a compelling interactive media expe
 - Explore **one** of the *themes* that we covered in class:
   - *Randomness*:
     - Random walks --> see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
-    - Procedural Noise (Open Simplex, Perlin, ...) --> see the [simplex-noise-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/simplex-noise-1.md) page and the examples in myCourses  /// Where in myCourses?
   - *Dynamical Systems*:
     - Chaotic Systems --> see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
     - Periodic functions --> see [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
