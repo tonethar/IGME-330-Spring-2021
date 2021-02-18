@@ -48,6 +48,12 @@ You (optionally, with a partner) will create a compelling interactive media expe
     - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
     - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
   - *Sprites* - do you need sprites for your Project? - [canvas-6.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) might help!
+  - **Audio Visualizer?**
+    - See the myCourses dropboxes for a 3-part "starter":
+      - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-1.md
+      - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-2.md
+      - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-3.md
+      - https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md
   - **Game?**
     - An interactive game, most likely in the "casual" genre, is also acceptable as a project
     - We like this definition of a game:
