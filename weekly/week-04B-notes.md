@@ -23,7 +23,7 @@
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
   - See myCourses for the demo code
 - Note: One of the requirements of Project 1 is to utilize the *ES6 Module Pattern*
-- If we run out of time today, this lecture has been pre-recorded, and the links to these videos are on the bottom of the page linked above
+- It is very likely we will run out of time today, but no worries! This lecture has been pre-recorded, and the links to these videos are on the bottom of the page linked above. You will need to watch BOTH videos before you can complete the "Refactor Sprity to ES6 Modules" HW assignment
 
 <hr><hr>
 
