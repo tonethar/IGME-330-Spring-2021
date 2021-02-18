@@ -2,7 +2,8 @@
 
 ## I. Review
 
-- Let's look over [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) and see if there are any questions
+- Let's look over [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) and see if there are any questions:
+  - if there are, we'll take 20 minutes to work through as much as we can, ***together!***
 
 ## II. ES6 Modules
 
