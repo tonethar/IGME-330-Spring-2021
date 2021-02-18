@@ -6,6 +6,7 @@
   - See discussion thread in myCourses where you will post your project idea and (optional) partner's name
   - See myCourses for deliverable due dates and descriptions
   - We will look at some project examples in class
+  - Why might you want to put some effort into the project?
   - Want to talk about a project idea? Either hang around after class, or send us an email (or message through Slack)
   
 <hr>
