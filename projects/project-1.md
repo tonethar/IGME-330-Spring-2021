@@ -120,16 +120,16 @@ You (optionally, with a partner) will create a compelling interactive media expe
 - "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button>` are NOT allowed
 
 ### IV-C. User-created JS Module
-- Probably named **utils.js**:
+- Probably named **utils.js**: /// check on this.
   - contain some or all of utility functions that we created in class (such as `getRandomColor()`, `getRandomInt()`, `drawRectangle()` etc ...) - depending on the needs of your project
   - contain at least 3 (and probably more) useful utility functions that were **created by you**
   - as "utility" functions these must be "pure functions" - see these notes --> [pure-function-notes.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/pure-function-notes.md)
   
 ### IV-D. Third-party libraries
-- NOT allowed without advance approval (drawing libraries like *EaselJS* are not allowed, but don't be afraid to ask about others (Physics libraries, etc) - just shoot the prof an email!)
+- NOT allowed without advance approval (drawing libraries like *EaselJS* are not allowed, but don't be afraid to ask about others (Physics libraries, etc) - just contact the prof to confirm!)
 
 ### IV-E. Version Control
-- You are required to have your project code posted to a GitHub repository 
+- You are required to have your project code posted to a GitHub repository  /// discuss
 - If you don't have a GitHub account, go get one now - https://education.github.com/
 - For this project, because of the small number of files you will be working on (with potentially a partner, and with a high likelihood of *merge conflicts*)  - you can interact with the repository however you wish:
   - GitHub's web interface
