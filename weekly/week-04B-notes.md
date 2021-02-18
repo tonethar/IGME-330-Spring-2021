@@ -21,6 +21,7 @@
 - Are you sick of writing all of your JS code in one file and jamming everything into the global scope? ***You should be!***
 - Today we are going to look at how to implement the *ES6 Module Pattern*:
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
+  - See myCourses for the demo code
 - Note: One of the requirements of Project 1 is to utilize the *ES6 Module Pattern*
 - If we run out of time today, this lecture has been pre-recorded, and the links to these videos are on the bottom of the page linked above
 
