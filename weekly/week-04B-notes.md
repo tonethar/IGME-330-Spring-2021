@@ -1,9 +1,10 @@
-# Week 4B - Drawing Images & Blending Modes
+# Week 4B - JavaScript ES6 Module Pattern
 
 ## I. Overview
-- Any questions on [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md)?
-- Let's look over the [Canvas V - Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md) notes
-- We'll spend the rest of the time on [Project 1 - Interactive Sandbox](../projects/project-1.md) questions, and looking at the current state of your prototypes
+- Are you sick of writing all of your JS code in one file and jamming everything into the global scope? ***You should be!***
+- Today we are going to look at how to implement the *ES6 Module Pattern*:
+  - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
+- Note: One of the requirements of Project 1 is to utilize the *ES6 Module Pattern*
 
 <hr><hr>
 
