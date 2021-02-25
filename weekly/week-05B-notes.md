@@ -46,6 +46,29 @@
     - Machine Learning with *Teachable Machine*:
       - https://people.rit.edu/~acjvks/330/shared/machine-learning/teachable-machine/tm-1.html
 
+
+## IV. Looking Ahead (tentative)
+
+- Week 6A (3/2/21)
+  - ES6/ES7 Features
+  - Project 1 prototype question & dev. time
+- Week 6B (3/4/21)
+  - (Prototype due night before)
+  - Zoom prototype reviews
+  - Weekend (Saturday/Sunday) crit group participation required
+ - Week 7A (3/9/21)
+   - Zoom demo breakout groups
+ - Week 7B (3/11/21)
+   - The JavaScript Prototype Chain
+   - Last chance for project feedback & questions
+ - Week 8A (3/16/21)
+   - (Final version due Sunday night before)
+   - Look at final versions
+   - Start Audio Visualizer Concepts
+ - Week 8B (3/18/21)
+   - Finish Audio Visualizer Concepts
+   - Midterm Exam Review
+
 <!--
 - Are you sick of writing all of your JS code in one file and jamming everything into the global scope? ***You should be!***
 - Today we are going to look at how to implement the *ES6 Module Pattern*:
