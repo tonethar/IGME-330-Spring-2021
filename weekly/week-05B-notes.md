@@ -7,10 +7,15 @@
 ## II. Project 1
 
 - Any questions on the [Project 1](../projects/project-1.md) requirements?
+- ***The discussion thread where you need to post your partner (optional) an idea (manadatory) closes tonight***
+- The Project 1 Prototype is due XXX
+- So, you need an idea!
 
-### I-A. You need an idea
-- The discussion thread where you need to post your partner (optional) an idea (manadatory) closes tonight
-- Most of you are GDD students - so a game is appropriate - you can use "Sprity" as a starting point
+- Possible themes:
+  - Most of you are GDD students - so a game is appropriate - you can use "Sprity" as a starting point
+  - An Audio Visualizer, or something that manipulates bitmap data, have been common projects in the past:
+    - [Web Audio Visualizer - IGME-330 "Home Page"](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md)
+    - Bitmap Effect demos are on this page --> [Web Audio VI - Bitmap effects](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md)
 
 <!--
 - Are you sick of writing all of your JS code in one file and jamming everything into the global scope? ***You should be!***
