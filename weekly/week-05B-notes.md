@@ -7,6 +7,11 @@
   - Let's look at a completed example
   - Any questions?
 
+<hr>
+
+## II. Transpiling 
+
+- https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md
 
 <hr>
 
@@ -29,8 +34,6 @@
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
 - Note: One of the requirements of Project 2 is to utilize the *ES6 Module Pattern*
 -->
-
-
 
 <hr><hr>
 
