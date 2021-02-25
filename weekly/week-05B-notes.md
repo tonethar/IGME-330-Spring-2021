@@ -55,7 +55,7 @@
   - Discussion of key ES6/ES7 Features
   - Project 1 prototype question & dev. time
 - **Week 6B** (3/4/21)
-  - (Prototype due night before)
+  - (Prototype of P1 due night before)
   - Zoom prototype reviews
   - Weekend (Friday/Saturday/Sunday) crit group participation required
  - **Week 7A** (3/9/21)
@@ -64,7 +64,7 @@
    - The JavaScript Prototype Chain
    - Last chance for project feedback & questions
  - **Week 8A** (3/16/21)
-   - (Final version due Sunday night before)
+   - (Final version of P1 due Sunday night prior)
    - Look at final versions
    - Start Audio Visualizer Concepts
  - **Week 8B** (3/18/21)
