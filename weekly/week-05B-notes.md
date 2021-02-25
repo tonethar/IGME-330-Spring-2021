@@ -35,7 +35,7 @@
 ## III. Project 1
 
 - Any questions on the [Project 1](../projects/project-1.md) requirements?
-- ***The discussion thread where you need to post your partner (optional) and idea (manadatory) closes tonight***
+- ***The discussion thread where you need to post your partner (optional) and idea (mandatory) closes tonight***
 - The Project 1 Prototype is due Wednesday night 3/3/2021
 - The Project 1 Final Version is due Sunday night 3/14/2021
 - So, you need an idea! You want to make something portfolio worthy (or nearly so) with **IMPACT** - right?
