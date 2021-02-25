@@ -43,6 +43,8 @@
   - An Audio Visualizer, or something that manipulates bitmap data, have been common projects in the past:
     - [Web Audio Visualizer - IGME-330 "Home Page"](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md)
     - Bitmap Effect demos are on this page --> [Web Audio VI - Bitmap effects](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md)
+    - Machine Learning with *Teachable Machine*:
+      - https://people.rit.edu/~acjvks/330/shared/machine-learning/teachable-machine/tm-1.html
 
 <!--
 - Are you sick of writing all of your JS code in one file and jamming everything into the global scope? ***You should be!***
