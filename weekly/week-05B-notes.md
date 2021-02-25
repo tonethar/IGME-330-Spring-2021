@@ -1,10 +1,16 @@
-# Week 5B - Transpiling Code
+# Week 5B - Transpiling Code / Project 1
 
 ## I. ES6 Modules
 
+- Last time we covered ES6 Modules:
+  - https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md
+  - Let's look at a completed example
+  - Any questions?
+
+
 <hr>
 
-## II. Project 1
+## III. Project 1
 
 - Any questions on the [Project 1](../projects/project-1.md) requirements?
 - ***The discussion thread where you need to post your partner (optional) an idea (manadatory) closes tonight***
