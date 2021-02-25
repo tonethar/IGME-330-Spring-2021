@@ -24,9 +24,6 @@
   - the scoping of variables can be easily controlled
 - **What is the major *disadvantage* of using ES6 modules?
   - They are only supported on modern browsers!**
-- How about newer ES8 features like *class properties*:
-  - https://www.cronj.com/blog/javascript-es7-es8-new-features/
-  - wouldn't it be great to try these out too, and STILL support older browsers
 
 ### II-A. Transpiling to the rescue!
 
