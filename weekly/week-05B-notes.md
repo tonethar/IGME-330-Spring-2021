@@ -46,6 +46,7 @@
     - Machine Learning with *Teachable Machine*:
       - https://people.rit.edu/~acjvks/330/shared/machine-learning/teachable-machine/tm-1.html
 
+<hr>
 
 ## IV. Looking Ahead (tentative)
 
