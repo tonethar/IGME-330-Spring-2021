@@ -37,7 +37,7 @@
 - ***The discussion thread where you need to post your partner (optional) and idea (manadatory) closes tonight***
 - The Project 1 Prototype is due Wednesday night 3/3/2021
 - The Project 1 Final Version is due Sunday night 3/14/2021
-- So, you need an idea!
+- So, you need an idea! You want to make something portfolio worthy (or nearly so) with **IMPACT** - right?
 - Possible themes:
   - Most of you are GDD students - so a game is appropriate - you can use "Sprity" as a starting point
   - An Audio Visualizer, or something that manipulates bitmap data, have been common projects in the past:
