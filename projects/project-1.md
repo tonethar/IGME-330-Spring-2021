@@ -1,4 +1,4 @@
-# Project 1 - *Interactive Sandbox* (DRAFT)
+# Project 1 - *Interactive Sandbox*
 
 [I. Overview](#overview)
 
@@ -183,7 +183,7 @@ You (optionally, with a partner) will create a compelling interactive media expe
 
 <a id="rubric"/>
 
-## VII. Rubric
+## VII. Rubric (DRAFT)
   
   Your project will be graded on the following criteria:
 
