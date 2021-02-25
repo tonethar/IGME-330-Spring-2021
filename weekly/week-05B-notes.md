@@ -57,7 +57,7 @@
 - **Week 6B** (3/4/21)
   - (Prototype due night before)
   - Zoom prototype reviews
-  - Weekend (Saturday/Sunday) crit group participation required
+  - Weekend (Friday/Saturday/Sunday) crit group participation required
  - **Week 7A** (3/9/21)
    - Zoom demo breakout groups
  - **Week 7B** (3/11/21)
