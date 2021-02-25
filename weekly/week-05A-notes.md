@@ -1,7 +1,8 @@
-# Week 5A - Project 1 Due
+# Week 5A - Recharge Day!
 
-## I. Recharge Day!
+
 <!--
+## I. Overview
 - Let's look at some Project 1 submissions
 - And then talk about [Canvas VI - Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) - which will help on Project 2.
 -->
