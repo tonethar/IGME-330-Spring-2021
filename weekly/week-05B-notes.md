@@ -50,23 +50,23 @@
 
 ## IV. Looking Ahead (tentative)
 
-- Week 6A (3/2/21)
+- **Week 6A** (3/2/21)
   - ES6/ES7 Features
   - Project 1 prototype question & dev. time
-- Week 6B (3/4/21)
+- **Week 6B** (3/4/21)
   - (Prototype due night before)
   - Zoom prototype reviews
   - Weekend (Saturday/Sunday) crit group participation required
- - Week 7A (3/9/21)
+ - **Week 7A** (3/9/21)
    - Zoom demo breakout groups
- - Week 7B (3/11/21)
+ - **Week 7B** (3/11/21)
    - The JavaScript Prototype Chain
    - Last chance for project feedback & questions
- - Week 8A (3/16/21)
+ - **Week 8A** (3/16/21)
    - (Final version due Sunday night before)
    - Look at final versions
    - Start Audio Visualizer Concepts
- - Week 8B (3/18/21)
+ - **Week 8B** (3/18/21)
    - Finish Audio Visualizer Concepts
    - Midterm Exam Review
 
