@@ -28,6 +28,7 @@
 ### II-A. Transpiling to the rescue!
  - https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md
  - Ever heard the expression, "objects are for people"? It is an old phrase that means that the above advantages to using ES6 modules are important to developers, but ultimately the machine doesn't care if you write code with or without modules/objects etc
+ - So basically we can write well-structured and easy to debug/maintain modern JavaScript code for OURSELVES, but when we are ready to ship it we transpile into an ES5 form that every browser can understand (plus our code is somewhat obfuscated, which makes it harder for someone to steal it, which is a plus)
 
 <hr>
 
