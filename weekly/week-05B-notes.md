@@ -4,7 +4,13 @@
 
 - Last time we covered ES6 Modules:
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md
-  - Let's look at a completed example
+  - Let's look at a completed example:
+    - what does `import * as main from "./main.js";` import from **main.js**
+    - in the above, **main** is a *namespace*, which makes it easier to keep track of where a function is declared. But, here we are only bringing in one funciton, so let's ditch the namespace. Try this instead:
+      - `import {init} from "./main.js";`
+      - and the all we have to do is to replace `window.onload = main.init;`, with `window.onload = init;`
+  
+ 
   - Any questions?
 
 <hr>
