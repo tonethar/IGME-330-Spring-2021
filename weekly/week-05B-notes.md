@@ -17,8 +17,20 @@
 <hr>
 
 ## II. Transpiling 
+- **What are the *advantages* of using ES6 modules?**
+  - it allows many programmers to collaborate on the same application because a small team deals with only a small part of the entire code
+  - the same code can be used in many applications
+  - errors can easily be identified, as they are localized to a file, class or function
+  - the scoping of variables can be easily controlled
+- **What is the major *disadvantage* of using ES6 modules?
+  - They are only supported on modern browsers!**
+- How about newer ES8 features like *class properties*:
+  - https://www.cronj.com/blog/javascript-es7-es8-new-features/
+  - wouldn't it be great to try these out too, and STILL support older browsers
 
-- https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md
+### II-A. Transpiling to the rescue!
+
+ - https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md
 
 <hr>
 
