@@ -52,7 +52,7 @@
 ## IV. Looking Ahead (tentative)
 
 - **Week 6A** (3/2/21)
-  - Key ES6/ES7 Features
+  - Discussion of key ES6/ES7 Features
   - Project 1 prototype question & dev. time
 - **Week 6B** (3/4/21)
   - (Prototype due night before)
