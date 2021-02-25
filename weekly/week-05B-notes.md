@@ -22,12 +22,12 @@
   - the same code can be used in many applications
   - errors can easily be identified, as they are localized to a file, class or function
   - the scoping of variables can be easily controlled
-- **What is the major *disadvantage* of using ES6 modules?
-  - They are only supported on modern browsers!**
+- **What is the major *disadvantage* of using ES6 modules?**
+  - They are only supported on modern browsers!
 
 ### II-A. Transpiling to the rescue!
-
  - https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-transpiling.md
+ - Ever heard the expression, "objects are for people"? It is an old phrase that means that the above advantages to using ES6 modules are important to developers, but ultimately the machine doesn't care if you write code with or without modules/objects etc
 
 <hr>
 
