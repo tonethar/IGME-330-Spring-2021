@@ -7,10 +7,12 @@
   - MDN [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   - MDN [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
   - Let's look at a completed example:
+    - Reminder: we only need to have 1 `<script>` tag (not 4 `<script>` tags) , pointing at **loader.js**
+      - This is because he JS modules will load the other files for us when we `import` them
     - what does `import * as main from "./main.js";` bring in  from **main.js** ?
-    - in the above, **main** is a *namespace*, which makes it easier to keep track of where a function is declared. But here we are only bringing in one function, so let's ditch the namespace. Try this instead:
-      - `import {init} from "./main.js";`
-      - and the all we have to do is to replace `window.onload = main.init;` with `window.onload = init;`
+      - in the above, **main** is a *namespace*, which makes it easier to keep track of where a function is declared. But here we are only bringing in one function, so let's ditch the namespace. Try this instead:
+        - `import {init} from "./main.js";`
+        - and the all we have to do is to replace `window.onload = main.init;` with `window.onload = init;`
     - which style (namespace or no-namespace) is better to use? 
   - Any questions?
 
