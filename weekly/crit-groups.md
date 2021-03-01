@@ -9,6 +9,8 @@ There will be 5 phases to this process: ***(When will the crit groups be formed?
 
 ***(ADD EXACT DATES (NOT JUST DAYS OF WEEK) TO ALL OF THE MILESTONES BELOW?)***
 
+***("THE MORE COMPLETED YOUR PROTOTYPE IS, THE MORE USEFUL THE FEEDBACK WILL BE"?)***
+
 ### TL;DR:
   1. Post Prototype by Wednesday Night.  You may get some initial feedback Thursday. ***(Post to myCourses? Or to crit group?)***
   2. Look for Crit-Groups on Slack and post your work-in-progress by Saturday night. ***(The Crit-Groups "Channel" under IGME-330?)***
