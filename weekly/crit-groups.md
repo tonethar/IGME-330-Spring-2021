@@ -4,13 +4,13 @@ An important aspect of any kind of project development is the iterative consider
 
 We will do this through the use of both an online asynchronous crit group (this coming weekend on Slack) and through an online progress presentation (in Zoom breakout rooms next week).
 
-There will be 5 phases to this process:
+There will be 5 phases to this process: ***(When will the crit groups be formed?)***
 
 ### TL;DR:
-  1. Post Prototype by Wednesday Night.  You may get some initial feedback Thursday.
-  2. Look for Crit-Groups on Slack and post your work-in-progress by Saturday night.
+  1. Post Prototype by Wednesday Night.  You may get some initial feedback Thursday. ***(Post to myCourses? Or to crit group?)***
+  2. Look for Crit-Groups on Slack and post your work-in-progress by Saturday night. ***(The Crit-Groups "Channel" under IGME-330?)***
   3. Give feedback to all others by Sunday night (see pinned post in group)
-  4. Be prepared to demo your project via screen-share on Tuesday of next week.
+  4. Be prepared to demo your project via screen-share on Tuesday of next week. ***(during class?)***
   5. Keep using the Crit Groups.  They will be the same for Project 2.
 
 ## 1. Submit your Project prototype by Wednesday evening before your scheduled Thursday Zoom class meeting.
