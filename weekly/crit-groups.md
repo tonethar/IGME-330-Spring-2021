@@ -1,6 +1,6 @@
 # Critique Groups
 
-An important aspect of any kind of project development is the iterative consideration of user feedback and testing.  In this course, we will give you opportunities to solicit, receive, and consider feedback from others about your project as well as contribute to the improvement of the projects of others by sharing your own obvservations and suggestions with them.
+An important aspect of any kind of project development is the iterative consideration of user feedback and testing.  In this course, we will give you opportunities to solicit, receive, and consider feedback from others about your project as well as contribute to the improvement of the projects of others by sharing your own observations and suggestions with them.
 
 We will do this through the use of both an online asynchronous crit group (this coming weekend on Slack) and through an online progress presentation (in Zoom breakout rooms next week).
 
@@ -29,7 +29,7 @@ You may also continue to improve and post updates to your project.  Both instruc
 
 Following the suggestions in a pinned post in your Crit Group, you should provide feedback about multiple aspects of the other projects posted to your group.  A sample posting will be included so you can get an idea of the kind of feedback we're expecting. Your participation in this regard is absolutely required and will be checked and applied to your course participation grade. 
 
-Whether or not you follow the advice and/or implement all of the suggestions you get from this process is totally up to you, but we encourage you to take some of these suggestion to heart so as to bring your project closer to the impactful, portfolio-worthy project that we are recommending you create.  Feel free to open a two-way dialog with the people who've given you critiques asking for clarification and/or more details if necessary.  Keep improving your project and let others know when there's something new to try out!
+Whether or not you follow the advice and/or implement all of the suggestions you get from this process is totally up to you, but we encourage you to take some of these suggestions to heart so as to bring your project closer to the impactful, portfolio-worthy project that we are recommending you create.  Feel free to open a two-way dialog with the people who've given you critiques asking for clarification and/or more details if necessary.  Keep improving your project and let others know when there's something new to try out!
 
 ## 4. On Tuesday, March 9th, during your class Zoom call, you'll be placed into breakout rooms for feedback demos.  
 
