@@ -6,6 +6,13 @@ We will do this through the use of both an online asynchronous crit group (this 
 
 There will be 5 phases to this process:
 
+### TL;DR:
+  1. Post Prototype by Wednesday Night.  You may get some initial feedback Thursday.
+  2. Look for Crit-Groups on Slack and post your work-in-progress by Saturday night.
+  3. Give feedback to all others by Sunday night (see pinned post in group)
+  4. Be prepared to demo your project via screen-share on Tuesday of next week.
+  5. Keep using the Crit Groups.  They will be the same for Project 2.
+
 ## 1. Submit your Project prototype by Wednesday evening before your scheduled Thursday Zoom class meeting.
 
 For this submission, you should have something "working" visually for your project.  Several controls should be present (although not with final styling).  Something interesting should be happening on your web page canvas (or canvases).  If the user will be able to interact with the experience through keyboard or mouse an initial attempt at this should be present so that it can be tested.  
