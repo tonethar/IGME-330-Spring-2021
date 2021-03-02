@@ -63,10 +63,16 @@ See myCourses dropboxes for due dates:
   - The Project 1 Final Version is due Sunday night 3/14/2021
 - Let's talk about the [Project 1 Crit Groups](crit-groups.md)
 
+<hr>
 
 ## III. Some more JavaScript
 
-- BTW: you can also use the following technique - getters and setters - with object literals
+## III-A. JavaScript Getters and Setters
+
+- What you do here is to create a "public property" yjay is actually goint to call a setter method (where you could do data validation)
+- You also need to create a "backing property", the convention is that it is the same name as the property but begins with an underscore
+- You have probably seen this echnique before in your C# classes
+- BTW - this technique also works on object literals, not just classes
 
 **setter-getter-tester.html**
 
@@ -122,7 +128,10 @@ See myCourses dropboxes for due dates:
   
 <hr>
 
-## IV. 
+## IV. Next time
+
+- Sections 01 & 02 - Jefferson - traveling for the last time this semester - no Zoom meeting - instead there will be Slack office hours during the class time - a great time to stop in for questions or feedback on your Project prototypes
+- Sections 03 & 04 - Wheeland - 
 
 <hr><hr>
 
