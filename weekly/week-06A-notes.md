@@ -130,10 +130,17 @@ See myCourses dropboxes for due dates:
   
 <hr>
 
-## IV. Next time
+## IV. Finishing up
+- Before you leave - let's talk about your project ideas one more time
+- And please hang out after class we're done today if you have technical questions about the prototype
 
-- Sections 01 & 02 - Jefferson - traveling for the last time this semester - no Zoom meeting - instead there will be Slack office hours during the class time - a great time to stop in for questions or feedback on your Project prototypes:
-  - before you leave - let's talk about the projects one more time
+<hr>
+
+## V. Next time
+
+- Sections 01 & 02 - Jefferson:
+  - traveling for the last time this semester - no Zoom meeting - instead there will be Slack office hours during the class time
+  - a great time to stop in for questions or feedback on your Project prototypes
 - Sections 03 & 04 - Wheeland - 
 
 <hr><hr>
