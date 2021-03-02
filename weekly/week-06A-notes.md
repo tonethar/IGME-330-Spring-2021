@@ -87,26 +87,26 @@ See myCourses dropboxes for due dates:
 
 
 <script>
-		"use strict";
+	"use strict";
 	class Monster{
-		constructor(species,hitpoints){
-			this._species = species;
-			this._hitpoints = hitpoints;
-		}
+	  constructor(species,hitpoints){
+	    this._species = species;
+	    this._hitpoints = hitpoints;
+	  }
 		
-		// read-only
-		get species(){
-			return this._species;
-		}
+	  // read-only
+	  get species(){
+	    return this._species;
+          }
 		
-		get hitpoints(){
-			return this._hitpoints;
-		}
+	  get hitpoints(){
+	    return this._hitpoints;
+	  }
 		
-		set hitpoints(value){
-			value = parseInt(value); 
-			if(value >= 0) this._hitpoints = value;
-		}
+	  set hitpoints(value){
+	    value = parseInt(value); 
+	    if(value >= 0) this._hitpoints = value;
+	  }
 	
 	}
 	
