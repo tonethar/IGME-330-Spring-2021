@@ -61,7 +61,7 @@ See myCourses dropboxes for due dates:
 - Any questions on the [Project 1](../projects/project-1.md) requirements?
   - The Project 1 Prototype is due Wednesday night 3/3/2021
   - The Project 1 Final Version is due Sunday night 3/14/2021
-- Let's talk about the [Project 1 Crit Groups](crit-groups.md)
+- Let's talk about the [Project 1 Crit Groups](p1-crit-groups.md)
 
 <hr>
 
