@@ -141,7 +141,8 @@ See myCourses dropboxes for due dates:
 - Sections 01 & 02 - Jefferson:
   - traveling for the last time this semester - no Zoom meeting - instead there will be Slack office hours during the class time - look for the **office-hours-jefferson** workspace
   - a great time to stop in for questions or feedback on your Project prototypes
-- Sections 03 & 04 - Wheeland - 
+- Sections 03 & 04 - Wheeland:
+  - we will take a live look at prototype submissions... hear some of the places you're planning to go with them... and make some immediate suggestions for improvements, additions, enhancements.
 
 <hr><hr>
 
