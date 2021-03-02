@@ -1,13 +1,25 @@
 # Week 6B - More WebAudio
 
+<!--
 ## Demo & Discussion
+-->
 
+<!--
 - [Web Audio II - Treble, Bass & Distortion Nodes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-2.md)
 - [Web Audio III - File Chooser](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-3.md) (we will quickly cover this *first*)
+-->
 
+
+<!--
 <a id="project2" /> 
+
+-->
  
+<!--
 ## IV. Project 2 & Deliverables
+-->
+
+<!--
 
 [Video: Project 2 Showcase 2181 - (20:14)](https://video.rit.edu/Watch/Si56JxGd) - the Audio Viz demos start at 5:00
 
@@ -30,7 +42,7 @@
 4) Final Project Submission **Sunday 10/25/2020** (end of week 9), 11:59PM
     - ... late submissions will NOT be accepted.
 
-
+-->
 
 <hr><hr>
 
