@@ -1,4 +1,4 @@
-# Week 6B - More WebAudio
+# Week 6B - Project 1 Prototypes
 
 
 ## Project 1 - Zoom Prototype Reviews!
