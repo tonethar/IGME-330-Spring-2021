@@ -71,8 +71,8 @@ See myCourses dropboxes for due dates:
 
 - What you do here is to create a "public property" that is actually going to call a setter method (where you could do data validation)
 - You also need to create a "backing property", the convention is that it is the same name as the property but begins with an underscore
-- You have probably seen this echnique before in your C# classes
-- BTW - this technique also works on object literals, not just classes
+- You have probably seen this technique before in your C# classes
+- BTW - this also works on object literals, not just classes
 
 **setter-getter-tester.html**
 
