@@ -87,7 +87,7 @@ See myCourses dropboxes for due dates:
 
 
 <script>
-	"use strict";
+		"use strict";
 	class Monster{
 		constructor(species,hitpoints){
 			this._species = species;
@@ -112,16 +112,17 @@ See myCourses dropboxes for due dates:
 	
 	const m1 = new Monster("Orc",10);
 	
-	console.log(m1.species); // calls getter without parentheses
-	console.log(m1.hitpoints); // calls getter without parentheses
-	console.log(m1.hitpoints = 100) // calls setter and passes in 100 for a `value`
-	console.log(m1.hitpoints = 2.6) // calls setter and passes in 2.6 for a `value` 
+	console.log(m1.species); 		// calls getter without parentheses
+	console.log(m1.hitpoints); 	// calls getter without parentheses
+	m1.hitpoints = 100 					// calls setter and passes in 100 for a `value`
+	console.log(m1.hitpoints) 		
+	m1.hitpoints = 2.6 					// calls setter and passes in 2.6 for a `value`, which is truncated to `2`
+	console.log(m1.hitpoints) 
+	m1.hitpoints = -300;				// calls setter and passes in -300 for a `value`, which is ignored
+	console.log(m1.hitpoints)  
 //	m1.species = "Goblin"; // ERROR!
 //	m1._species = "Kobold"; // allowed! :-|
-	console.log(m1.species); 
-	
-
-	
+// console.log(m1.species); 
 </script>
 </body>
 </html>
