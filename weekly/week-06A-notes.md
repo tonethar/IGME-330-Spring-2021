@@ -132,7 +132,8 @@ See myCourses dropboxes for due dates:
 
 ## IV. Next time
 
-- Sections 01 & 02 - Jefferson - traveling for the last time this semester - no Zoom meeting - instead there will be Slack office hours during the class time - a great time to stop in for questions or feedback on your Project prototypes
+- Sections 01 & 02 - Jefferson - traveling for the last time this semester - no Zoom meeting - instead there will be Slack office hours during the class time - a great time to stop in for questions or feedback on your Project prototypes:
+  - before you leave - let's talk about the projects one more time
 - Sections 03 & 04 - Wheeland - 
 
 <hr><hr>
