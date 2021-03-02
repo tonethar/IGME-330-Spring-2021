@@ -105,7 +105,7 @@ See myCourses dropboxes for due dates:
 		
 		set hitpoints(value){
 			value = parseInt(value); 
-			if(value >= 1) this._hitpoints = value;
+			if(value >= 0) this._hitpoints = value;
 		}
 	
 	}
@@ -115,6 +115,7 @@ See myCourses dropboxes for due dates:
 	console.log(m1.species); // calls getter without parentheses
 	console.log(m1.hitpoints); // calls getter without parentheses
 	console.log(m1.hitpoints = 100) // calls setter and passes in 100 for a `value`
+	console.log(m1.hitpoints = 2.6) // calls setter and passes in 2.6 for a `value` 
 //	m1.species = "Goblin"; // ERROR!
 //	m1._species = "Kobold"; // allowed! :-|
 	console.log(m1.species); 
