@@ -1,6 +1,12 @@
+<!--
 # Week 6A - Intro to WebAudio API
+-->
 
+<!--
 ## I. Review
+-->
+
+<!--
 - Any questions on last week's HW?
   - [Canvas VI - Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
     - My preferred ES6 class technique:
@@ -15,20 +21,50 @@
 - BTW - everyone knows how to set breakpoints in the browser debugger, right?
   - https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints
 
-## II. Presentation
+-->
 
+<!--
+## II. Presentation
+-->
+
+<!--
 - [Web Audio I - Build a Simple Audio Visualizer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-1.md)
 - Helpful! --> [Web Audio Visualizer "Home" for IGME-330](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md)
+-->
 
+<!--
 ## III. Homework Assignments
+-->
 
+<!--
 See myCourses dropboxes for due dates:
   - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-1.md)
   - [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-2.md)
   - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-3.md)
-  
-  
+--> 
+ 
+<!--
 ## IV. Getter/Setter ES6 Class example
+-->
+
+
+# Week 6A - More JavaScript & Project 1 Crit Groups
+
+## I. Review
+- Any questions on ES6 Modules?
+- Any questions on *transpiling*?
+
+<hr>
+
+## II. Project 1
+
+- Any questions on the [Project 1](../projects/project-1.md) requirements?
+  - The Project 1 Prototype is due Wednesday night 3/3/2021
+  - The Project 1 Final Version is due Sunday night 3/14/2021
+- Let's talk about the [Project 1 Crit Groups](crit-groups.md)
+
+
+## III. Some more JavaScript
 
 - BTW: you can also use the following technique - getters and setters - with object literals
 
@@ -84,6 +120,9 @@ See myCourses dropboxes for due dates:
 </html>
 ```
   
+<hr>
+
+## IV. 
 
 <hr><hr>
 
