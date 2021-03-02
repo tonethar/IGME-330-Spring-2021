@@ -31,7 +31,16 @@ You may also continue to improve and post updates to your project.  Both instruc
 
 ## 3. By Sunday (March 7, 11:59pm), you must provide a short but thoughtful feedback write-up to each of the other people in your Crit Group. 
 
-Following the suggestions in a pinned post in your Crit Group, you should provide feedback about multiple aspects of the other projects posted to your group.  A sample posting will be included so you can get an idea of the kind of feedback we're expecting. Your participation in this regard is absolutely required and will be checked and applied to your course participation grade. You should use Slack's "Reply to thread" feature on the post that contains the URL to keep your Crit Group organized.
+Following the suggestions in a pinned post in your Crit Group, you should provide feedback about multiple aspects of the other projects posted to your group.  A sample posting will be included so you can get an idea of the kind of feedback we're expecting. Here's a partial list of what we'll be asking you to comment on for each other project:
+  - How compelling/entertaining is it?
+  - Can you figure out how to use/play it?
+  - Does have all the controls it needs?  Are they sensible/well-labeled?
+  - Is the visual design pleasing? (C.R.A.P.)
+  - Does it stand out in some way?
+  - Peek at the code. (Use the Sources tab in the Dev Tools).  Is it clean and easy to read? Well commented?
+  - Anything else that might help improve the project?
+
+Your participation in this regard is absolutely required and will be checked and applied to your course participation grade. You should use Slack's "Reply to thread" feature on the post that contains the URL to keep your Crit Group organized.
 
 Whether or not you follow the advice and/or implement all of the suggestions you get from this process is totally up to you, but we encourage you to take some of these suggestions to heart so as to bring your project closer to the impactful, portfolio-worthy project that we are recommending you create.  Feel free to open a two-way dialog with the people who've given you critiques asking for clarification and/or more details if necessary.  Keep improving your project and let others know when there's something new to try out!
 
