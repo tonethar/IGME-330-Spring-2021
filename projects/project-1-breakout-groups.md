@@ -18,8 +18,8 @@ These answers will be added to a document (DOC or PDF) and posted to the dropbox
 
 4) Add the following to the document:
 
-- the names of each breakout room member, and the link to their working project on banjo
-- as a group, for each project, discuss and summarize your answers to the following questions. You are likely only going to have 10 minutes or so per project.
+    - the names of each breakout room member, and the link to their working project on banjo
+    - as a group, for each project, discuss and summarize your answers to the following questions. You are likely only going to have 10 minutes or so per project.
 
 ```
 Project Author(s):
