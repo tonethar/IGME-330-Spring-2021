@@ -16,11 +16,10 @@
 3) Choose one of you to "scribe" - this person will record the names of everyone in your breakout room, and the answers to the questions below. 
 These answers will be added to a document (DOC or PDF) and posted to the dropbox. Only ONE document per team will be submitted to the dropbox.
 
-4) Add the following to the document
+4) Add the following to the document:
 
-4A) The names of each breakout room member, and the link to their working project on banjo
-
-4B) As a group, for each project, discuss and summarize your answers to the following questions. You are likely only going to have 10 minutes or so per project.
+- the names of each breakout room member, and the link to their working project on banjo
+- as a group, for each project, discuss and summarize your answers to the following questions. You are likely only going to have 10 minutes or so per project.
 
 ```
 Project Author(s):
