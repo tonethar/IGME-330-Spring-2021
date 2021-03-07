@@ -18,8 +18,8 @@
 ## II. Project 1 - the present
 - Resources:
   - dat.GUI (minimalist UI) example:
-   - working version is here: http://igm.rit.edu/~acjvks/courses/shared/330/demos/datGUI-demo/
-   - see myCourses for a ZIP of the code
+    - working version is here: http://igm.rit.edu/~acjvks/courses/shared/330/demos/datGUI-demo/
+    - see myCourses for a ZIP of the code
   - "Nick Cage Clicker" - Sample Game Code:
     - working version is here: http://igm.rit.edu/~acjvks/courses/2018-spring/330/code-examples/js-module-demos/HW-cage-clicker-dist/
     - tutorial and start files are here: https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-cage-clicker-1.md
