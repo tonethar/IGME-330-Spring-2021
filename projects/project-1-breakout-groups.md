@@ -34,7 +34,7 @@ ii. Can you figure out how to use/play it?
 iii. Does have all the controls it needs?  Are they sensible/well-labeled?
 iv. Is the visual design pleasing? (C.R.A.P.)  Is there an embedded font?
 v. Does it stand out in some way?
-vi. Peek at the code. (Use the Sources tab in the Dev Tools).  Is it clean and easy to read? Well commented?
+vi. Peek at the code. (Use the Sources tab in the Dev Tools).  Is it using ES6 Classes and Modules? Is it clean and easy to read? Well commented?
 vii. What area of this project need more attention to make an excellent experience?  Improving CSS and page design? Following Coding standards?  Going far enough beyond examples?
 viii. Anything else that might help improve the project?
 
