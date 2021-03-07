@@ -10,7 +10,7 @@
 # Week 7A - Project 1 Feedback & Questions
 
 ## I. Project 1 - the past
-- Any questions on the [Project 1](../projects/project-1.md) requirements - Project 1 Final Version is due Sunday night 3/14/2021
+- Any questions on the [Project 1](../projects/project-1.md) requirements?
 - How did the [Project 1 Crit Groups](p1-crit-groups.md) go?
 
 <hr>
@@ -28,7 +28,7 @@
 <hr>
 
 ## III. Project 1 - the future?
-
+- Project 1 Final Version is due Sunday night 3/14/2021
 - You still have about a week to polish this up!
 
 <hr><hr>
