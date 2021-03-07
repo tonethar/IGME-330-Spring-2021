@@ -14,7 +14,7 @@
 2) Wait to be assigned to a Zoom breakout room
 
 3) Choose one of you to "scribe" - this person will record the names of everyone in your breakout room, and the answers to the questions below. 
-These answers will be added to a document (DOC or PDF) and posted to the dropbox. Only ONE document per team will be submitted to the dropbox.
+These answers will be added to a document (DOC or PDF) and posted to the dropbox. Only ONE document per team will be submitted to the dropbox. Note, if you wish, the most efficient approach might be to create a Google Doc and collaboratively edit it. Regardless, the scribe will be responsible for doing the final editing and posting of the document to myCourses.
 
 4) Add the following to the document:
 
@@ -24,8 +24,10 @@ These answers will be added to a document (DOC or PDF) and posted to the dropbox
     - below are the questions you need to answer as a group, and a template you could follow:
 
 ```
-Project Author(s):
-Project Link: 
+Scribe: 
+
+Project #1 Author(s):
+Project #1 Link: 
 Questions to answer as a group:
 i. How compelling/entertaining is it?
 ii. Can you figure out how to use/play it?
@@ -35,6 +37,10 @@ v. Does it stand out in some way?
 vi. Peek at the code. (Use the Sources tab in the Dev Tools).  Is it clean and easy to read? Well commented?
 vii. What area of this project need more attention to make an excellent experience?  Improving CSS and page design? Following Coding standards?  Going far enough beyond examples?
 viii. Anything else that might help improve the project?
+
+Project #2 Author(s):
+Project #2 Link: 
+etc ...
 ```
 
 <hr>
