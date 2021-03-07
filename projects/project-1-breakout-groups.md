@@ -49,6 +49,8 @@ etc ...
 - If the project is a game, see some of the "Nick Cage Clicker" notes here - about halfway down the page - it might give you some ideas for questions to ask/suggestions to make:
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-cage-clicker-4.md 
 
+<hr>
+
 ## IV. Submission
 - After class, the scribe should spend a few minutes to clean up the document (edit for clarity/brevity, fix spelling errors, format it so that it's readable etc...)
 - The scribe will then post this to the myCourses dropbox before it closes, and will distribute a copy to each member.
