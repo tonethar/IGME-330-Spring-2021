@@ -26,7 +26,7 @@ These answers will be added to a document (DOC or PDF) and posted to the dropbox
 ```
 Project Author(s):
 Project Link: 
-Questions to answer:
+Questions to answer as a group:
 i. How compelling/entertaining is it?
 ii. Can you figure out how to use/play it?
 iii. Does have all the controls it needs?  Are they sensible/well-labeled?
