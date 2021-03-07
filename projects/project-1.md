@@ -54,6 +54,9 @@ You (optionally, with a partner) will create a compelling interactive media expe
       - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-2.md
       - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-3.md
       - https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md
+  
+  <a id="game" />
+  
   - **Game?**
     - An interactive game, most likely in the "casual" genre, is also acceptable as a project
     - We like this definition of a game:
