@@ -48,6 +48,7 @@ etc ...
 ## III. Is it a game?
 - If the project is a game, see some of the "Nick Cage Clicker" notes here - about halfway down the page - it might give you some ideas for questions to ask/suggestions to make:
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-cage-clicker-4.md 
+- Also see the [**Game?**](project-1.md#game) section on the [Project 1 Requirements](project-1.md#game)
 
 <hr>
 
