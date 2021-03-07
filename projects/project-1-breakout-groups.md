@@ -37,6 +37,8 @@ vii. What area of this project need more attention to make an excellent experien
 viii. Anything else that might help improve the project?
 ```
 
+<hr>
+
 ## III. Submission
 - After class, the scribe should spend a few minutes to clean up the document (edit for clarity/brevity, fix spelling errors, format it so that it's readable etc...)
 - The scribe will then post this to the myCourses dropbox before it closes, and will distribute a copy to each member.
