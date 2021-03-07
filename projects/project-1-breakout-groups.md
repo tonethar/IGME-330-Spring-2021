@@ -14,7 +14,7 @@
 2) Wait to be assigned to a Zoom breakout room
 
 3) Choose one of you to "scribe" - this person will record the names of everyone in your breakout room, and the answers to the questions below. 
-These answers will be added to a document (DOC or PDF) and posted to the dropbox. Only ONE document per team will be submitted to the dropbox. Note, if you wish, the most efficient approach might be to create a Google Doc and collaboratively edit it. Regardless, the scribe will be responsible for doing the final editing and posting of the document to myCourses.
+These answers will be added to a document (DOC or PDF) and posted to the dropbox. Only ONE document per team will be submitted to the dropbox. *Note, if you wish, the most efficient approach might be to create a Google Doc and collaboratively edit it. Regardless, the scribe will be responsible for doing the final editing and posting of the document to myCourses.*
 
 4) Add the following to the document:
 
