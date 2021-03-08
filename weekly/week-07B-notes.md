@@ -10,6 +10,8 @@
 
 # Week 7B - The last work day on Project 1
 
+- [The JavaScript Prototype Chain](https://github.com/tonethar/IGME-330-Master/blob/master/notes/js-prototype-chain.md)
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
