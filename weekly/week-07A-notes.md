@@ -21,6 +21,8 @@
 - Resources:
   - dat.GUI (minimalist UI) example:
     - working version is here: http://igm.rit.edu/~acjvks/courses/shared/330/demos/datGUI-demo/
+    - Link to current documentation: https://github.com/dataarts/dat.gui/blob/master/API.md
+    - Llnk to "legacy" documentation, which has really nice examples: https://github.com/dataarts/dat.gui/blob/master/API.md
     - see myCourses for a ZIP of the code
   - "Nick Cage Clicker" - Sample Game Code:
     - working version is here: http://igm.rit.edu/~acjvks/courses/2018-spring/330/code-examples/js-module-demos/HW-cage-clicker-dist/
