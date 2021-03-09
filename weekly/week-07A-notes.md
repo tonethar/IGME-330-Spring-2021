@@ -12,6 +12,8 @@
 ## I. Project 1 - the past
 - Any questions on the [Project 1](../projects/project-1.md) requirements?
 - How did the [Project 1 Crit Groups](p1-crit-groups.md) go?
+  - Keep utilizing these as you make updates to your project
+  - We will be using the same crit groups for Project 2
 
 <hr>
 
