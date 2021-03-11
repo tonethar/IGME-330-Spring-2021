@@ -10,7 +10,7 @@
 
 # Week 7B - JavaScript Prototype Chain
 
-- Let's talk about the "P" word (not "Project 1")
+- Let's first talk about the "P" word (not "Project 1")
 - Project 1:
   - you have had about 3 weeks to work on it 
   - thus we are hoping for a lot of portfolio quality projects (or nearly so)
