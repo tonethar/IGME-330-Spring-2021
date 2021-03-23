@@ -1,14 +1,27 @@
 # Week 9B: Computational Literature with RiTa
 
-## I. Overview
+## I. Overview & Notes
+- Today we will look at:
+  - [Text-2 - Constrained Writing](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-2.md)
+  - [Text-3 - Simple Text Analysis](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-3.md)
 
-Today we will look at [Text-4 - The RiTa.js Computational Text Library](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-4.md)
+
+<!-- Today we will look at [Text-4 - The RiTa.js Computational Text Library](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-4.md) -->
+
+<hr>
 
 ## II. Homework
 
-- *Maddening Libs* - the requirements for which are at the end of Text-4 above
+- [HW - Word Cloud](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-word-cloud.md)
+<!-- - *Maddening Libs* - the requirements for which are at the end of Text-4 above -->
 
+<hr>
 
+## III. Videos
+- These will help with the HW assignments:
+  - [Demo: Word Counter Part A (17:24)](https://video.rit.edu/Watch/text-3-word-counter-part-A)
+  - [Demo: Word Counter Part B (06:57)](https://video.rit.edu/Watch/text-3-word-counter-part-B)
+ 
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
