@@ -6,8 +6,9 @@
 - Look at some Project 1 submissions
 - "New" Stuff
   - Working with text
-  - Look at a *constrained writing* technique - the palindrome generator
-  - Look at word counting, stop words, and building a word cloud app
+  - Look at a *constrained writing* technique - the palindrome generator (*today*)
+  - Look at word counting, stop words, and building a word cloud app (*Thursday*)
+  - Look at the RiTa.js Computational Text Library (*next Tuesday*)
 - **Final Project** - Just a preview of where we are headed - don't worry - we still have plenty to cover - and it's not due until finals week: [Project 2 - MVVM Web App Mashup of Awesomeness!](../projects/project-2.md)
 - **Upcoming HW assignments:**
   - Check the myCourses dropboxes - don't wait until the night before to do these, work ahead on the assignments when you are able to!
