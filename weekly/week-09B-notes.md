@@ -13,7 +13,6 @@
 ## II. Homework
 
 - [HW - Word Cloud](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-word-cloud.md)
-<!-- - *Maddening Libs* - the requirements for which are at the end of Text-4 above -->
 
 <hr>
 
