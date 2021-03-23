@@ -6,7 +6,7 @@
   - [Text-3 - Simple Text Analysis](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-3.md)
 
 
-<!-- Today we will look at [Text-4 - The RiTa.js Computational Text Library](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-4.md) -->
+
 
 <hr>
 
