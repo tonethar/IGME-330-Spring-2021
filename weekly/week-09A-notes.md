@@ -7,20 +7,26 @@
   - Look at Project 1 submissions
 - "New" Stuff
   - Working with text
-- Look at another *constrained writing* technique
-- Look at word counting, stop words, and building a word cloud app
+  - Look at a *constrained writing* technique - the palindrome generator
+  - Look at word counting, stop words, and building a word cloud app
 - **Final Project** - Just a preview of where we are headed - don't worry - we still have plenty to cover - and it's not due until finals week: [Project 2 - MVVM Web App Mashup of Awesomeness!](../projects/project-2.md)
 - **Upcoming HW assignments:**
   - Check the myCourses dropboxes. There are 2 assignments due Saturday 03/27 (one of these is easy), and 2 assignments due Saturday 03/29 (one of these is easy). But regardless, don't wait until the night before to do these, work ahead on the assignments when you are able to!
+
+<hr>
 
 ## II. Lecture Notes
 - [Text-1 - Loading Plain Text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-1.md)
 - [Text-2 - Constrained Writing](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-2.md)
 - [Text-3 - Simple Text Analysis](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-3.md)
 
+<hr>
+
 ## III. HW Assignment
 - [HW - Palindrome Detector](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-palindrome-detector.md)
 - [HW - Word Cloud](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-word-cloud.md)
+
+<hr>
 
 # IV. Videos
 - These will help with the HW assignments:
