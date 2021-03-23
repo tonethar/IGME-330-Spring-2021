@@ -3,8 +3,7 @@
 <a id="review"></a>
 
 ## I. Overview & Agenda
-- "Old" stuff:
-  - Look at Project 1 submissions
+- Look at some Project 1 submissions
 - "New" Stuff
   - Working with text
   - Look at a *constrained writing* technique - the palindrome generator
