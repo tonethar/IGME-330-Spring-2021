@@ -6,10 +6,7 @@
 - "Old" stuff:
   - Look at Project 1 submissions
 - "New" Stuff
-  - Loading text into the browser
-    - HW - *Palindrome Detector*
-  - 
-
+  - Working with text
 - Look at another *constrained writing* technique
 - Look at word counting, stop words, and building a word cloud app
 - **Final Project** - Just a preview of where we are headed - don't worry - we still have plenty to cover - and it's not due until finals week: [Project 2 - MVVM Web App Mashup of Awesomeness!](../projects/project-2.md)
