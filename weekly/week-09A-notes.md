@@ -13,7 +13,7 @@
 
 - Look at another *constrained writing* technique
 - Look at word counting, stop words, and building a word cloud app
-- **Final Project** - Just a preview of where we are headed - don't worry - we still have plenty to cover - and it's not due until finals week: [Project 3 - MVVM Web App Mashup of Awesomeness!](../projects/project-3.md)
+- **Final Project** - Just a preview of where we are headed - don't worry - we still have plenty to cover - and it's not due until finals week: [Project 3 - MVVM Web App Mashup of Awesomeness!](../projects/project-2.md)
 - **Upcoming HW assignments:**
   - Check the myCourses dropboxes. There are 2 assignments due XX/XX (one of these is easy), and 2 assignments due XX/XX (one of these is easy). But regardless, don't wait until the night before to do these, work ahead on the assignments that you are able to!
 
