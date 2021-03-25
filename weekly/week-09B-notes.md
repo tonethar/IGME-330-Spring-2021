@@ -1,4 +1,4 @@
-# Week 9B: Computational Literature with RiTa
+# Week 9B: More 
 
 ## I. Overview & Notes
 - Today we will look at:
