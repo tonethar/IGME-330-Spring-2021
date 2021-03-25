@@ -1,4 +1,4 @@
-# Week 9B: More 
+# Week 9B: More Text
 
 ## I. Overview & Notes
 - Today we will look at:
