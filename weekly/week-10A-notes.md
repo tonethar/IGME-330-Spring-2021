@@ -1,4 +1,4 @@
-# Week 10A - Context-free Grammars
+# Week 10A - Computational Literature & Context-free Grammars with RiTa 
 
 ## I. Overview
 Today we will look at:
