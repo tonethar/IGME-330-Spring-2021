@@ -16,7 +16,7 @@
   
 <hr>
 
-## II. Overview
+## II. Overview of "Unit 4"
 - We are now moving into the fourth unit of the course, where we will build data-driven applications utilizing web services. In the next few weeks we will cover the following concepts:
   - intro (or review for some of you) of using web services both in the browser, and in a command-line application
   - creating our own web service
@@ -26,6 +26,39 @@
 
 <hr>
 
+## III. Agenda
+- What is a web service?
+- Intro to PHP
+
+<hr>
+
+## IV. Lecture Notes
+
+- [HW - Make your own PHP Web Service - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-1.md)
+  - much of what is discussed is review of concepts covered in IGME-230/235's "Web App" project
+  - please read this page "interactively" by copy/pasting in the web service URLS and adjusting the passed in parameters (where possible) to see the results
+  - if you don't already have Chrome's [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) browser extension installed - please do so now
+  - be sure to take note of the "Seven things we'll need to create our web service" section
+  - watch the first video linked below
+- [HW - Make your own PHP Web Service - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-2.md)
+  - this page reviews the basics of PHP
+  - watch the remaining videos linked below
+
+<hr>
+
+## V. HW Assignments
+- HW - Make your own PHP Web Service - Parts I & II - see myCourses dropbox
+
+<hr>
+
+## IV. Videos
+- [PHP and Web Services-1: Introduction (14:22)](https://video.rit.edu/Watch/php-and-web-services-1-introduction)
+- [PHP and Web Services-2: Foundations - Intro to PHP (14:52)](https://video.rit.edu/Watch/php-and-web-services-2-foundations-intro-to-php)
+- [PHP and Web Services-2: Foundations - PHP Variables and Data Types (15:25)](https://video.rit.edu/Watch/php-and-web-services-2-php-variables-and-data-types)
+- [PHP and Web Services-2: Foundations - PHP Arrays (13:38)](https://video.rit.edu/Watch/php-and-web-services-2-php-arrays)
+- [PHP and Web Services-2: Foundations - php.ini file (05:13)](https://video.rit.edu/Watch/php-and-web-services-2-php-ini-file)
+
+<!--
 ## III. Today's Topics
 - Consuming Web Services in a browser:
   - [Web Apps - Part 10 (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md) - we will review these IGME-230 notes. Here's a question for you - what's the general difference between a *library* like RiTa.js, and a *web service* (such as Giphy)?
@@ -34,12 +67,9 @@
     - We are going to review the concepts together - if you have any questions about it - ask!
     - If your version was not perfect, fix it!
     - And if you didn't complete this HW assignment, do so ASAP!
-
-<!--
-
-<hr>
-
 -->
+
+
 
 <!--
  ## IV. Demos
