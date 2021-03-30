@@ -35,11 +35,18 @@
     - If your version was not perfect, fix it!
     - And if you didn't complete this HW assignment, do so ASAP!
 
+<!--
+
 <hr>
 
+-->
+
+<!--
  ## IV. Demos
  For demos, we'll utilize 2 services:
- 
+-->
+
+<!--
  ### IV-A. Dog API
  - Docs are here: https://dog.ceo/dog-api/documentation/
  - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to copy **dog-xhr.html** (the XHR version)
@@ -54,10 +61,18 @@
        - note: this endpoint also does not require any additional parameters
        - see screenshot below:
 
+-->
+
+<!--
 ![screenshot](./_images/webservice-demo-1.png)
 
-### IV-B. Anime Schedule Finder API
+-->
 
+<!--
+### IV-B. Anime Schedule Finder API
+-->
+
+<!--
 - Docs are here: https://jikan.docs.apiary.io/#
  - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#anime-schedule-finder) - and be sure to copy **anime-schedule-xhr.html** (the XHR version)
      - try out the start version - note that we are getting a `url` and a `title` for each result -  which allows us to create a hyperlink to the result's web page
@@ -69,14 +84,25 @@
 
 <a id="homework"/>
 
+-->
+
+<!--
 ## V. Homework - Improved GIF Finder
 A really nice feature that all web apps have is ability to allow the user to "page" through large numbers of results. Unfortunately, in our current version of [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md), did you notice that we always get the same 25 "cat" GIFs back when we search? Let's fix that!
 
+-->
+
+<!--
 - Add a "Find More!" button to your GIF Finder HW - here are some hints:
   - the `offset` API parameter is what controls the "start index" of the results. Because we have not supplied a value for this, it always defaults to `0` - see screenshot below:
-  
+ 
+-->
+
+<!--
  ![screenshot](./_images/webservice-demo-3.png)
-  
+-->
+
+<!--
 - so we need to pass an `offset` parameter to the query string, and increase the `offset` every time the "Find More!"  is clicked - hints:
   - Declare a script variable - `let offset = 0;`
   - Append its value to the query string  - `url += "&offset=" + offset;`
@@ -88,13 +114,18 @@ A really nice feature that all web apps have is ability to allow the user to "pa
     - when you pull the `limit` value from the form, it is of type `String`. Before you can perform mathematical operations with it, you will need to convert it to a `Number`
     - you should probably set the `disabled` property of the "Find More!" to `true` when the app starts up, and then set it to `false` after the first successful search
   - Here is a completed example:   
-    
-![screenshot](./_images/webservice-demo-4.png)
+-->
 
+<!--
+![screenshot](./_images/webservice-demo-4.png)
+-->
+
+<!--
 ## VI. Lists of Public APIs
 - https://github.com/toddmotto/public-apis
 - https://github.com/abhishekbanthia/Public-APIs
 
+-->
 
 
 <hr><hr>
