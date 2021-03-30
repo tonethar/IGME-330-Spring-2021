@@ -30,6 +30,8 @@
 - What is a web service?
 - Intro to PHP
 
+<a id="lecture-notes"></a>
+
 <hr>
 
 ## IV. Lecture Notes
