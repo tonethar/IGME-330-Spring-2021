@@ -2,8 +2,9 @@
 
 <a id="review"/>
 
-## I. Review: wrap-up of "unit 2"
-- We just completed 3-1/2 lectures about working with [**Unstructured Text**](https://en.wikipedia.org/wiki/Unstructured_data) - by both analyzing it and by creating [**Generative Text**](https://en.wikipedia.org/wiki/Generative_art) experiments. Here is a summary of the concepts, topics and exercises:
+## I. Review: wrap-up of "unit 3"
+- BTW - "unit 1" was procedural graphics, "unit 2" (which was a bit shorter) was procedural audio
+- We just completed 3 lectures about working with [**Unstructured Text**](https://en.wikipedia.org/wiki/Unstructured_data) - by both analyzing it and by creating [**Generative Text**](https://en.wikipedia.org/wiki/Generative_art) experiments. Here is a summary of the concepts, topics and exercises:
   - loading text via &lt;input>, &lt;textarea>, &lt;file>, drag-and-drop, and also via the `XMLHttpRequest` object (XHR)
   - manipulating text using `String` and `Array` methods, as well as regular expressions
   - creating a [*Palindrome Detector*](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-palindrome-detector.md) - palindromes are a form of [**Constrained Writing**](https://en.wikipedia.org/wiki/Constrained_writing)
@@ -13,14 +14,17 @@
   - finally, we learned about how to use RiTa to specify a *grammar*, *terminal* and *non-terminal* symbols, and *production rules*. We looked at a [Haiku](https://grammar.yourdictionary.com/style-and-usage/rules-for-writing-haiku.html) demo, and we created a fantasy place name generator that utilized a grammer, [*HW - ill-Favored Coast*](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-5.md#V) 
 - Let's quickly review the *Maddening Libs* and *ill-Favored Coast* homework
   
+<hr>
 
 ## II. Overview
-- We are now moving into the third part of the course, where we will build data-driven applications utilizing web services. In the next few weeks we will cover the following concepts:
+- We are now moving into the fourth unit of the course, where we will build data-driven applications utilizing web services. In the next few weeks we will cover the following concepts:
   - intro (or review for some of you) of using web services both in the browser, and in a command-line application
   - creating our own web service
   - utilizing multiple web services (such as google maps) to build a web service *mashup*
   - storing data in the "cloud" via Firebase
   - *data binding* - learning how to utilize "reactive" frameworks like Vue.js
+
+<hr>
 
 ## III. Today's Topics
 - Consuming Web Services in a browser:
@@ -30,7 +34,9 @@
     - We are going to review the concepts together - if you have any questions about it - ask!
     - If your version was not perfect, fix it!
     - And if you didn't complete this HW assignment, do so ASAP!
- 
+
+<hr>
+
  ## IV. Demos
  For demos, we'll utilize 2 services:
  
