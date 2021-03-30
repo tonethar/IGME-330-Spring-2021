@@ -1,4 +1,4 @@
-# Week 12A - Client-side web applications
+# Week 11B - Client-side web applications
 
 ## I. Overview & Agenda
  - Creating a PHP *proxy server*
