@@ -1,4 +1,4 @@
-# Week 12B - Maps
+# Week 12B - Maps & Mapping
 
 ## I. Overview & Agenda
 
