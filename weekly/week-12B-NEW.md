@@ -15,7 +15,7 @@
 
 ## IV. Videos
 
-- none this week
+- none for this unit
 
 <hr><hr>
 
