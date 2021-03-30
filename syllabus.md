@@ -64,22 +64,19 @@ Final course grades are determined using the following scale:
 | 65+%	| D |
 | <65%	| F |
 
-### Projects (50%)
+### Projects (55%)
 * Project 1  - [Interactive Sandbox](projects/project-1.md)
 * Project 2  - [MVVM Web Application](projects/project-2.md)
 
-### Homework (20%)
+### Homework (22%)
 Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment (or "Check off", see below) per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments. **Important!** - When you submit web file(s) (HTML,CSS,JavaScript) to mycourses dropboxes, they (or the folder they are contained in) must be zipped. If you do not do so, mycourses will strip out all of the CSS and JavaScript, and leave you with a non-functioning and ugly web page. Unzipped assignments will therefore usually receive a grade of zero.
 
-### Check Offs (10%)
+### Check Offs (12%)
 "Check offs" are required checkpoints or smaller HW assignments:
   - https://giphy.com/gifs/tos-big-hair-poofy-IgGNIfJx7bYHfEV3c8
 
-### Zoom Attendance/Participation (10%)
+### Zoom Attendance/Participation (11%)
 1 absence = no penalty, 2 = -2%, 3 = -5%, 4 = -10%, 5+ = additional -5% per absence (Yes, at 5+ absences that's a *negative* grade that reduces your overall grade even further. myCourses is able to calculate that). You can request to be excused from a class meeting, write us in advance of the meeting. If you can't attend class for any reason, always let us know *in advance*.
-
-### Midterm Exam (10%)
-Will be given online, on or around week 10.
 
 ### Policy on Incomplete Grades
 Incomplete grades will be given only in the most exceptional circumstances, soley for issues that arise AFTER the 'W' deadline has passed, and then only by prior arrangement with the professor. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework is not sufficient justification for an "I". Instead, meet with the professor as early as possible in the semester if you're having difficulty. 
