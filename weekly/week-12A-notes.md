@@ -18,7 +18,6 @@
 - [HW - Mapbox II - RIT Coffee Map](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-2.md)
 
 
-<hr>
 
 <!--
 ## IV. Ajax & Web Service Review Questions
