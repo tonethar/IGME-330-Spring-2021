@@ -20,6 +20,7 @@
 
 <hr>
 
+<!--
 ## IV. Ajax & Web Service Review Questions
 
 1. What do the following acronyms stand for:
@@ -46,6 +47,8 @@
 1. What is the JavaScript *data type* returned by the "random jokes" web service?
 1. Imagine you are going to create a "random whimsical anecdotes" web service service that runs in banjo utilizing PHP. 
   - Give at least three things you will have to do to make sure that a browser can download and parse the requested number of anecdotes from the service.
+
+-->
 
 <hr><hr>
 
