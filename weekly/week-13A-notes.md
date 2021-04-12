@@ -1,3 +1,19 @@
+# Week 13A - More Vue.js
+
+## I. Topics
+- [Vue Part II - Ajax and Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-2.md)
+- [Vue Part III - Simple Vue Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-3.md)
+- [Vue Part IV - Nested Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md)
+
+## II. Videos
+
+- [More Vue.js - Part I - Vue & Ajax - (26:29)](https://video.rit.edu/Watch/Ao8n6ZFf)
+- [More Vue.js - Part II - Simple Vue Components - (15:17)](https://video.rit.edu/Watch/Jo2k6XDz)
+- More Vue.js - Part III - Nested Vue Components - There's not a video! You can just read the "Vue Nested Components" notes yourself: https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md
+
+
+
+<!--
 # Week 13A - Storing data in cloud
 
 ## I. Topics
@@ -24,6 +40,7 @@
 - [Firebase - Part IV - Draw & Share C - (17:05)](https://video.rit.edu/Watch/d7N9Biy4)
 - [Firebase - Part IV - Draw & Share D - (18:19)](https://video.rit.edu/Watch/m7LWb8z3)
 
+-->
 
 <hr><hr>
 
