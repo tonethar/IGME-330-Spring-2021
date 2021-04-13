@@ -2,7 +2,7 @@
 
 ## But first, a little Ajax Review
 
-- Look at the [SHOUTIFY HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-5.md)
+- Look at the [SHOUTCLOUD HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-php-web-service-5.md)
 - [Demo - Simple iTunes Proxy](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-simple-itunes-proxy.md)
 - Look at Improved Giphy Finder
 
