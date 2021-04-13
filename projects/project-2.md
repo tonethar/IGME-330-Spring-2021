@@ -2,7 +2,7 @@
 
 ## I. Overview
 
-For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes multiple Web services.
+For this project you are creating a JavaScript driven Web application that utilizes multiple Web services.
 
 - Your goal is to create an application that does something useful easy to use, functional, and aesthetically pleasing.
 - The app should serve a purpose - i.e it should be useful to *someone*
