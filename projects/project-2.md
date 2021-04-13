@@ -248,14 +248,13 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ## III. Milestones (one submission per team please - make sure both team members' names are stated)
   - **Project Proposal** - see myCourses for details & due date/time
   - **Checkpoint #1** - see myCourses for details & due date/time
-  - **Checkpoint #2** - see myCourses for details & due date/time
   - **Final project deliverable & documentation** - see myCourses for details & due date/time
   - **Demo reel** - 1 to 2 minute video demo of the final version of app (alternatively, have a Zoom meeting with us finals week to demo it)
 
 <hr>
 
 ## IV. Documentation
-  - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a numeric grade for the project that you feel fairly represents what its worth
+  - As with Project 1, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a numeric grade for the project that you feel fairly represents what its worth
   - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
 <hr>
