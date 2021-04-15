@@ -4,7 +4,7 @@
 
 For this project you are creating a JavaScript driven Web application that utilizes multiple Web services.
 
-- Your goal is to create an application that does something useful easy to use, functional, and aesthetically pleasing.
+- Your goal is to create an application that does something useful, and is easy to use, functional, and aesthetically pleasing.
 - The app should serve a purpose - i.e it should be useful to *someone*
 - *As a counter-example, **Otaku-za** - a (hypothetical) app that mashes up a Manga search API with a Pizza shop locator, is not actually useful*
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
@@ -208,7 +208,7 @@ For this project you are creating a JavaScript driven Web application that utili
     
 5) Be sure that the app functions as expected when posted to `banjo.rit.edu` - for example, be sure that there are not any security issues caused by using `http` instead of `https` in links to libraries and so on
 
-6) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written you. Failing to give credit opens you to charges of **academic dishonesty**:
+6) It is expected and required that the code in the assignment (other than from approved libraries) is written by you. If you do end up using a small amount of code you found on the web, you must document where you got it from.  Give credit and a link for all code (fragments or otherwise) that are not written by you. Failing to give credit opens you to charges of **academic dishonesty**:
    - examples of acceptable use for this project:
      - copying a GUID generating function "whole cloth" from StackOverflow - https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript
      - copying and lightly modifying code for a "hamburger" menu - https://www.google.com/search?q=vanilla+javascript+hamburger+menu
@@ -248,6 +248,7 @@ For this project you are creating a JavaScript driven Web application that utili
 ## III. Milestones
   - **Project Proposal** - see myCourses for details & due date/time
   - **Checkpoint #1** - see myCourses for details & due date/time
+    - **Crit Group Participation** - in conjunction with Checkpoint #1, you'll be expected to post a prototype version of your project to your Slack Crit Group (as you did for Project 1), and to respond to all other postings in the Crit Group by the following day.    
   - **Final project deliverable & documentation** - see myCourses for details & due date/time
   - **Demo reel** - 1 to 2 minute video demo of the final version of app (alternatively, have a Zoom meeting with us finals week to demo it)
 
