@@ -5,13 +5,21 @@
 - [Vue Part III - Simple Vue Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-3.md)
 - [Vue Part IV - Nested Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md)
 
+<hr>
+
 ## II. Videos
 
 - [More Vue.js - Part I - Vue & Ajax - (26:29)](https://video.rit.edu/Watch/Ao8n6ZFf)
 - [More Vue.js - Part II - Simple Vue Components - (15:17)](https://video.rit.edu/Watch/Jo2k6XDz)
 - More Vue.js - Part III - Nested Vue Components - There's not a video! You can just read the "Vue Nested Components" notes yourself: https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md
 
+<hr>
 
+## III. Vue 3?
+
+- We are covering Vue 2 in class, but Vue 3 is out. For new projects, the creators of Vue are still recommending Vue2:
+  - https://madewithvuejs.com/blog/vue-3-roundup
+  - can you (optionally) use Vue 3 on your project 2? Yes!
 
 <!--
 # Week 13A - Storing data in cloud
