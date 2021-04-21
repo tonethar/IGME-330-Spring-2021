@@ -84,7 +84,6 @@ For this project you are creating a JavaScript driven Web application that utili
     - xi. Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
       - Any API from GIPHY - https://developers.giphy.com/docs/ (we love Giphy, but we don't want a bunch of "Giphy Finder++" Apps)
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-      - Google Maps (use MapBox instead)
     - xii. **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
       - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
