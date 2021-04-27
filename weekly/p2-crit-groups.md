@@ -14,8 +14,8 @@ There will be 5 phases to this process:
 
 ### TL;DR:
   1. Submit Prototype to myCourses by Wednesday Night (April 28th, 11:59pm).  You will get some initial feedback Thursday. 
-  2. Go back to your Crit-Group on Slack and post your work-in-progress by Saturday night (April 30th, 11:59pm). 
-  3. Give feedback to all others by Sunday night (May 1st, 11:59pm) (see pinned post in group)
+  2. Go back to your Crit-Group on Slack and post your work-in-progress by Saturday night (May 1st, 11:59pm). 
+  3. Give feedback to all others by Sunday night (May 2st, 11:59pm) (see pinned post in group)
   4. Be prepared to demo your project via screen-share in class on Tuesday (May 4th)
   5. Keep using the Crit Groups.
 
@@ -25,7 +25,7 @@ For this submission, you should at a minimum, have two APIs "working" for your p
 
 The Instructor will open and look at these submissions live during class on Thursday, providing first-reaction feedback and suggestions.  You may also be asked to provide further explanation about your plans, etc.  (So have your microphone ready!)
 
-## 2. By Saturday (April 30th, 11:59pm), you will be required to post a URL to your work-in-progress to your Slack Crit-Group.
+## 2. By Saturday (May 1st, 11:59pm), you will be required to post a URL to your work-in-progress to your Slack Crit-Group.
 
 In Slack, you will go back to your previous Crit Group which contains about 5 other students from this course (across all 4 sections).  You are allowed to freely share links to your progress so far in this group and ask for ongoing feedback as you continue to work on things.
 
@@ -33,7 +33,7 @@ Again, *the further along you are, the more useful the feedback will be.*
 
 You may also continue to improve and post updates to your project.  Both instructors and teaching assistants will be able to visit and (time permitting) provide feedback on your work as well.
 
-## 3. By Sunday (May 1, 11:59pm), you must provide a short but thoughtful feedback write-up to each of the other people in your Crit Group. 
+## 3. By Sunday (May 2, 11:59pm), you must provide a short but thoughtful feedback write-up to each of the other people in your Crit Group. 
 
 Following the suggestions in a pinned post in your Crit Group, you should provide feedback about multiple aspects of the other projects posted to your group.  A sample posting will be included so you can get an idea of the kind of feedback we're expecting. Here's a partial list of what we'll be asking you to comment on for each other project:  
   - How well does the app serve it's purpose?  Is it obvious who the audience is?
