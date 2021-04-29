@@ -1,4 +1,4 @@
-# Project 2 - Web App Mashup of Awesomeness! (DRAFT)
+# Project 2 - Web App Mashup of Awesomeness!
 
 ## I. Overview
 
