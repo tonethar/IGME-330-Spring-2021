@@ -34,7 +34,7 @@ Scribe:
 
 Project #1 Author(s):
 Project #1 Link: 
-Project #1 "One-liner" description: (ex "A restaurant finder for hungry people") 
+Project #1 "One-liner" description and/or title: (ex "Foodnatic - A restaurant finder for hungry people") 
 Questions to answer as a group:
 1) List 3 or 4 features such an app must have to be meet the objective of its "One-liner" and make it "portfolio worthy" (or nearly so)
 
