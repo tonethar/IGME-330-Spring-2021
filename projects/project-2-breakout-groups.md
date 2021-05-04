@@ -37,15 +37,16 @@ Project #1 Link:
 Project #1 "One-liner" description: (ex "A restaurant finder for hungry people") 
 Questions to answer as a group:
 1) List 3 or 4 features such an app must have to be meet the objective of its "One-liner" and make it "portfolio worthy" (or nearly so)
+
 2) Describe how the current version of the app is making progress towards being portfolio worthy:
-i) How well does the app serve its purpose? Is it obvious who the audience is?
-ii) Can you figure out how to use it?
-iii) Does it have all the controls it needs? Are they sensible/well-labeled?
-iv) Is localStorage working properly? Can you reset the experience?
-iv) Is the visual design pleasing? (C.R.A.P.)
-v) Does it stand out in some way from existing class examples?
-vi) Peek at the code. (Use the Sources tab in the Dev Tools). Is it clean and easy to read? Well commented?
-vii) Anything else that might help improve the project and make it “portfolio-worthy”?
+  i) How well does the app serve its purpose? Is it obvious who the audience is?
+  ii) Can you figure out how to use it?
+  iii) Does it have all the controls it needs? Are they sensible/well-labeled?
+  iv) Is localStorage working properly? Can you reset the experience?
+  v) Is the visual design pleasing? (C.R.A.P.)
+  vi) Does it stand out in some way from existing class examples?
+  vii) Peek at the code. (Use the Sources tab in the Dev Tools). Is it clean and easy to read? Well commented?
+  viii) Anything else that might help improve the project and make it “portfolio-worthy”?
 
 
 Project #2 Author(s):
