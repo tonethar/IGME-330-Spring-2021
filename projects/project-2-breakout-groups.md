@@ -36,7 +36,8 @@ Project #1 Author(s):
 Project #1 Link: 
 Project #1 "One-liner" description and/or title: (ex "Foodnatic - A restaurant finder for hungry people") 
 Questions to answer as a group:
-1) List 3 or 4 features such an app must have to be meet the objective of its "One-liner" and make it "portfolio worthy" (or nearly so)
+1) List 3 or 4 features such an app must have to be meet the objective of its "One-liner" and make it 
+   "portfolio worthy" (or nearly so)
 
 2) Describe how the current version of the app is making progress towards being portfolio worthy:
   i) How well does the app serve its purpose? Is it obvious who the audience is?
@@ -45,7 +46,8 @@ Questions to answer as a group:
   iv) Is localStorage working properly? Can you reset the experience?
   v) Is the visual design pleasing? (C.R.A.P.)
   vi) Does it stand out in some way from existing class examples?
-  vii) Peek at the code. (Use the Sources tab in the Dev Tools). Is it clean and easy to read? Well commented? Does it meet all of the P2 Code requirements?
+  vii) Peek at the code. (Use the Sources tab in the Dev Tools). Is it clean and easy to read? 
+       Well commented? Does it meet all of the P2 Code requirements?
   viii) Anything else that might help improve the project and make it “portfolio-worthy”?
 
 
