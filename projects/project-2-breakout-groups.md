@@ -18,7 +18,7 @@ These answers will be added to a document (DOC or PDF) and posted to the dropbox
 
 <hr>
 
-***PS - For best results, turning on your camera, talking to each other, and sharing your screen to demo your project will likely give the most productive results - Don't just edit the Google DOC in silence :-|***
+***PS - For best results, and to add value on top of what the asynchronous Slack crit groups provided, turning on your camera, talking to each other, and sharing your screen to demo your project will likely give the most productive results - Don't just edit the Google DOC in silence :-|***
 
 <hr>
 
