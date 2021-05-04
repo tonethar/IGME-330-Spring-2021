@@ -45,7 +45,7 @@ Questions to answer as a group:
   iv) Is localStorage working properly? Can you reset the experience?
   v) Is the visual design pleasing? (C.R.A.P.)
   vi) Does it stand out in some way from existing class examples?
-  vii) Peek at the code. (Use the Sources tab in the Dev Tools). Is it clean and easy to read? Well commented?
+  vii) Peek at the code. (Use the Sources tab in the Dev Tools). Is it clean and easy to read? Well commented? Does it meet all of the P2 Code requirements?
   viii) Anything else that might help improve the project and make it “portfolio-worthy”?
 
 
